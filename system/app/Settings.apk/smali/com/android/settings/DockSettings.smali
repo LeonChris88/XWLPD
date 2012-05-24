@@ -244,7 +244,7 @@
 
     move-result-object v4
 
-    invoke-virtual {v1, v4}, Landroid/preference/PreferenceScreen;->removePreference(Landroid/preference/Preference;)Z
+    
 
     invoke-virtual {p0}, Lcom/android/settings/DockSettings;->getPreferenceScreen()Landroid/preference/PreferenceScreen;
 
@@ -256,7 +256,7 @@
 
     move-result-object v4
 
-    invoke-virtual {v1, v4}, Landroid/preference/PreferenceScreen;->removePreference(Landroid/preference/Preference;)Z
+    
 
     const-string v1, "cradle_enable"
 
