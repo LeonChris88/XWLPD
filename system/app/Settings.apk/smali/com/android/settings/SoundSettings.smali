@@ -506,7 +506,7 @@
 
     move-result-object v12
 
-    invoke-virtual {v11, v12}, Landroid/preference/PreferenceScreen;->removePreference(Landroid/preference/Preference;)Z
+    
 
     :cond_1
     const-string v11, "silent_mode"
