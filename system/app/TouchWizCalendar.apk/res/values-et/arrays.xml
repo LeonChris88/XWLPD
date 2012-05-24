@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_minutes_labels">
+        <item>Puudub</item>
+        <item>Kellaajal</item>
+        <item>5 min enne</item>
+        <item>15 min enne</item>
+        <item>1 tund varem</item>
+        <item>1 päev varem</item>
+        <item>2 päeva varem</item>
+        <item>1 nädal varem</item>
+        <item>Kohanda</item>
+    </string-array>
+    <string-array name="reminder_minutes_values">
+        <item>-1</item>
+        <item>0</item>
+        <item>5</item>
+        <item>15</item>
+        <item>60</item>
+        <item>1440</item>
+        <item>2880</item>
+        <item>10080</item>
+        <item>-2</item>
+    </string-array>
+    <array name="preferences_default_reminder_labels" />
+    <array name="preferences_default_reminder_values" />
+    <string-array name="preferences_alert_type_labels">
+        <item>Märguanne</item>
+        <item>Olekuribateade</item>
+        <item>Väljas</item>
+    </string-array>
+    <string-array name="preferences_alert_type_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="availability">
+        <item>Hõivatud</item>
+        <item>Saadaval</item>
+    </string-array>
+    <string-array name="visibility">
+        <item>Vaikimisi</item>
+        <item>Privaat</item>
+        <item>Avalik</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>Esim.</item>
+        <item>teine</item>
+        <item>kolmas</item>
+        <item>neljas</item>
+        <item>Viim.</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>(Ei vasta)</item>
+        <item>Jah</item>
+        <item>Võib-olla</item>
+        <item>Ei</item>
+    </string-array>
+    <string-array name="response_labels2">
+        <item>Jah</item>
+        <item>Võib-olla</item>
+        <item>Ei</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Ainult see sündmus</item>
+        <item>Kõik sündmused</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>Kõik sündmused</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Ainult see kordus</item>
+        <item>Kõik sarja sündmused</item>
+    </string-array>
+    <array name="view_change_items" />
+    <array name="preferences_reminders_alert_type_labels" />
+    <array name="preferences_reminders_alert_type_values" />
+    <array name="preferences_reminders_default_reminder_labels" />
+    <array name="preferences_reminders_default_reminder_values" />
+    <string-array name="preferences_default_view_labels">
+        <item>Kuu</item>
+        <item>Nädal</item>
+        <item>Päev</item>
+        <item>Loend</item>
+    </string-array>
+    <string-array name="preferences_default_view_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="preferences_day_view_labels">
+        <item>Ajaruudustik</item>
+        <item>Sündmuste loend</item>
+    </string-array>
+    <string-array name="preferences_day_view_values">
+        <item>2</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="preferences_first_day_of_week_labels">
+        <item>Esmaspäev</item>
+        <item>Pühapäev</item>
+    </string-array>
+    <string-array name="preferences_first_day_of_week_values">
+        <item>2</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="preferences_font_size_labels">
+        <item>Üliväike</item>
+        <item>Väike</item>
+        <item>Keskmine</item>
+        <item>Suur</item>
+        <item>Eriti suur</item>
+    </string-array>
+    <string-array name="on_off">
+        <item>Väljas</item>
+        <item>Sees</item>
+    </string-array>
+    <string-array name="alarmtone">
+        <item>Helid</item>
+        <item>Mine kausta Minu failid</item>
+    </string-array>
+    <string-array name="repeat_labels">
+        <item>1 aasta</item>
+        <item>5 aastat</item>
+        <item>10 aastat</item>
+        <item>50 aastat</item>
+    </string-array>
+    <string-array name="ordinary_prev">
+        <item>1. nädal</item>
+        <item>2. nädal</item>
+        <item>3. nädal</item>
+        <item>4. nädal</item>
+        <item>5. nädal</item>
+        <item>6. nädal</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>Midway saared</item>
+        <item>Hawaii</item>
+        <item>Alaska</item>
+        <item>Vaikse ookeani aeg</item>
+        <item>Tijuana</item>
+        <item>Arizona</item>
+        <item>Chihuahua</item>
+        <item>Mäestikuvööndiaeg</item>
+        <item>Kesk-Ameerika</item>
+        <item>Keskvööndiaeg</item>
+        <item>Mexico City</item>
+        <item>Saskatchewan</item>
+        <item>Bogota</item>
+        <item>Idavööndiaeg</item>
+        <item>Venezuela</item>
+        <item>Atlandi ookeani aeg</item>
+        <item>Manaus</item>
+        <item>Newfoundland</item>
+        <item>Santiago</item>
+        <item>Buenos Aires</item>
+        <item>Gröönimaa</item>
+        <item>Brasilia</item>
+        <item>Montevideo</item>
+        <item>Kesk-Atlandi</item>
+        <item>Assoorid</item>
+        <item>Roheneemesaared</item>
+        <item>Casablanca</item>
+        <item>London, Dublin</item>
+        <item>Amsterdam, Berliin</item>
+        <item>Belgrad</item>
+        <item>Brüssel</item>
+        <item>Sarajevo</item>
+        <item>Lääne-Aafrika aeg</item>
+        <item>Windhoek</item>
+        <item>Amman, Jordaania</item>
+        <item>Ateena, Istanbul</item>
+        <item>Beirut, Liibanon</item>
+        <item>Kairo</item>
+        <item>Helsinki</item>
+        <item>Jeruusalemm</item>
+        <item>Minsk</item>
+        <item>Harare</item>
+        <item>Bagdad</item>
+        <item>Moskva</item>
+        <item>Kuveit</item>
+        <item>Nairobi</item>
+        <item>Teheran</item>
+        <item>Bakuu</item>
+        <item>Thbilisi</item>
+        <item>Jerevan</item>
+        <item>Dubai</item>
+        <item>Kabul</item>
+        <item>Islamabad, Karachi</item>
+        <item>Uralski</item>
+        <item>Jekaterinburg</item>
+        <item>Kolkata</item>
+        <item>Sri Lanka</item>
+        <item>Katmandu</item>
+        <item>Astana</item>
+        <item>Yangon</item>
+        <item>Krasnojarsk</item>
+        <item>Bangkok</item>
+        <item>Peking</item>
+        <item>Hongkong</item>
+        <item>Irkutsk</item>
+        <item>Kuala Lumpur</item>
+        <item>Perth</item>
+        <item>Taipei</item>
+        <item>Soul</item>
+        <item>Tokyo, Osaka</item>
+        <item>Jakutsk</item>
+        <item>Darwin</item>
+        <item>Brisbane</item>
+        <item>Vladivostok</item>
+        <item>Guam</item>
+        <item>Adelaide</item>
+        <item>Hobart</item>
+        <item>Canberra, Sydney</item>
+        <item>Magadan</item>
+        <item>Marshalli saared</item>
+        <item>Fidži</item>
+        <item>Auckland</item>
+        <item>Tonga</item>
+    </string-array>
+    <string-array name="my_status_labels">
+        <item>Vaba</item>
+        <item>Esialgne</item>
+        <item>Hõivatud</item>
+        <item>Kontorist väljas</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>Alati</item>
+        <item>Ainult vaikses režiimis</item>
+        <item>Mitte kunagi</item>
+    </string-array>
+</resources>

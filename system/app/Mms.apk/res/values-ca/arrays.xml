@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_smiley_names">
+        <item>Feliç</item>
+        <item>Trist</item>
+        <item>"Picant l'ullet"</item>
+        <item>Treure la llengua</item>
+        <item>Sorprès</item>
+        <item>Petoner</item>
+        <item>Xisclant</item>
+        <item>Guai</item>
+        <item>Molt ric</item>
+        <item>Ficar la pota</item>
+        <item>Avergonyit</item>
+        <item>Àngel</item>
+        <item>Sense decidir</item>
+        <item>Plorant</item>
+        <item>No diré res</item>
+        <item>Rient</item>
+        <item>Confús</item>
+        <item>Cor</item>
+        <item>Boig</item>
+        <item>Somriure de suficiència</item>
+        <item>Cara de pòquer</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 segon</item>
+        <item>2 segons</item>
+        <item>3 segons</item>
+        <item>4 segons</item>
+        <item>5 segons</item>
+        <item>6 seconds</item>
+        <item>7 seconds</item>
+        <item>8 segons</item>
+        <item>9 seconds</item>
+        <item>10 segons</item>
+        <item>Altres...</item>
+    </string-array>
+    <string-array name="pref_entries_font_size">
+        <item>Utilitzar mides font disp</item>
+        <item>Enorme</item>
+        <item>Gran</item>
+        <item>Normal</item>
+        <item>Petit</item>
+        <item>Diminut</item>
+    </string-array>
+    <string-array name="pref_entries_cb_selection">
+        <item>Tots els canals</item>
+        <item>El meu canal</item>
+    </string-array>
+    <string-array name="pref_entries_sms_input_mode">
+        <item>Alfabet GSM</item>
+        <item>Unicode</item>
+        <item>Automàtica</item>
+    </string-array>
+    <string-array name="pref_entries_sms_expiry_date">
+        <item>0 day</item>
+        <item>1 dia</item>
+        <item>2 dies</item>
+        <item>3 dies</item>
+    </string-array>
+    <string-array name="pref_entries_mms_creation_mode">
+        <item>Restringit</item>
+        <item>Advertència</item>
+        <item>Lliure</item>
+    </string-array>
+    <string-array name="pref_entries_service_loading_action">
+        <item>Sempre</item>
+        <item>Preguntar</item>
+        <item>Mai</item>
+    </string-array>
+    <string-array name="pref_entries_message_skin">
+        <item>Blau</item>
+        <item>Marró</item>
+        <item>Evergreen</item>
+        <item>Mono</item>
+        <item>Joypop</item>
+    </string-array>
+    <string-array name="pref_entries_text_field_color">
+        <item>Negre</item>
+        <item>Blanc</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Sempre</item>
+        <item>Només mode Silenci</item>
+        <item>Mai</item>
+    </string-array>
+</resources>

@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_minutes_labels">
+        <item>Hiçbiri</item>
+        <item>Zamanında</item>
+        <item>5 dakika önce</item>
+        <item>15 dakika önce</item>
+        <item>1 saat önce</item>
+        <item>1 gün önce</item>
+        <item>2 gün önce</item>
+        <item>1 hafta önce</item>
+        <item>Kişiselleştir</item>
+    </string-array>
+    <string-array name="reminder_minutes_values">
+        <item>-1</item>
+        <item>0</item>
+        <item>5</item>
+        <item>15</item>
+        <item>60</item>
+        <item>1440</item>
+        <item>2880</item>
+        <item>10080</item>
+        <item>-2</item>
+    </string-array>
+    <array name="preferences_default_reminder_labels" />
+    <array name="preferences_default_reminder_values" />
+    <string-array name="preferences_alert_type_labels">
+        <item>Uyarı</item>
+        <item>Durum çubuğu bildirimleri</item>
+        <item>Kapalı</item>
+    </string-array>
+    <string-array name="preferences_alert_type_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="availability">
+        <item>Meşgul</item>
+        <item>Uygun</item>
+    </string-array>
+    <string-array name="visibility">
+        <item>Varsayılan</item>
+        <item>Özel</item>
+        <item>Genel</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>İlk</item>
+        <item>Saniye</item>
+        <item>üçüncü</item>
+        <item>dördüncü</item>
+        <item>Son</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>(Cevap yok)</item>
+        <item>Evet</item>
+        <item>Belki</item>
+        <item>Hayır</item>
+    </string-array>
+    <string-array name="response_labels2">
+        <item>Evet</item>
+        <item>Belki</item>
+        <item>Hayır</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Sadece bu olay</item>
+        <item>Tüm olaylar</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>Tüm olaylar</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Sadece bu örnek</item>
+        <item>Dizideki tüm olaylar</item>
+    </string-array>
+    <array name="view_change_items" />
+    <array name="preferences_reminders_alert_type_labels" />
+    <array name="preferences_reminders_alert_type_values" />
+    <array name="preferences_reminders_default_reminder_labels" />
+    <array name="preferences_reminders_default_reminder_values" />
+    <string-array name="preferences_default_view_labels">
+        <item>Ay</item>
+        <item>Hafta</item>
+        <item>Gün</item>
+        <item>Listele</item>
+    </string-array>
+    <string-array name="preferences_default_view_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="preferences_day_view_labels">
+        <item>Zaman çizelgesi</item>
+        <item>Etkinlik listesi</item>
+    </string-array>
+    <string-array name="preferences_day_view_values">
+        <item>2</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="preferences_first_day_of_week_labels">
+        <item>Pazartesi</item>
+        <item>Pazar</item>
+    </string-array>
+    <string-array name="preferences_first_day_of_week_values">
+        <item>2</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="preferences_font_size_labels">
+        <item>Ekstra küçük</item>
+        <item>Küçük</item>
+        <item>Orta</item>
+        <item>Büyük</item>
+        <item>Ekstra büyük</item>
+    </string-array>
+    <string-array name="on_off">
+        <item>Kapalı</item>
+        <item>Açık</item>
+    </string-array>
+    <string-array name="alarmtone">
+        <item>Sesler</item>
+        <item>"Dosyalarım'a git"</item>
+    </string-array>
+    <string-array name="repeat_labels">
+        <item>1 yıl için</item>
+        <item>5 yıl için</item>
+        <item>10 yıl için</item>
+        <item>50 yıl için</item>
+    </string-array>
+    <string-array name="ordinary_prev">
+        <item>"1'inci hafta"</item>
+        <item>"2'inci hafta"</item>
+        <item>"3'üncü hafta"</item>
+        <item>"4'üncü hafta"</item>
+        <item>"5'üncü hafta"</item>
+        <item>"6'üncü hafta"</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>Midway Adaları</item>
+        <item>Hawaii</item>
+        <item>Alaska</item>
+        <item>Pasifik Saat Dilimi</item>
+        <item>Tijuana</item>
+        <item>Arizona</item>
+        <item>Chihuahua</item>
+        <item>Dağlık Bölge Saat Dilimi</item>
+        <item>Orta Amerika</item>
+        <item>Merkezi Saat Dilimi</item>
+        <item>Mexico City</item>
+        <item>Saskatchewan</item>
+        <item>Bogota</item>
+        <item>Doğu Saat Dilimi</item>
+        <item>Venezüella</item>
+        <item>Atlantik Saat Dilimi</item>
+        <item>Manaus</item>
+        <item>Newfoundland</item>
+        <item>Santiago</item>
+        <item>Buenos Aires</item>
+        <item>Grönland</item>
+        <item>Brezilya</item>
+        <item>Montevideo</item>
+        <item>Orta-Atlantic</item>
+        <item>Azores</item>
+        <item>Cape Verde Adaları</item>
+        <item>Casablanca</item>
+        <item>Londra, Dublin</item>
+        <item>Amsterdam, Berlin</item>
+        <item>Belgrat</item>
+        <item>Brüksel</item>
+        <item>Sarajevo</item>
+        <item>B. Afrika Saat Dilimi</item>
+        <item>Windhoek</item>
+        <item>Amman, Ürdün</item>
+        <item>Atina, İstanbul</item>
+        <item>Beyrut, Lübnan</item>
+        <item>Kahire</item>
+        <item>Helsinki</item>
+        <item>Kudüs</item>
+        <item>Minsk</item>
+        <item>Harare</item>
+        <item>Baghdad</item>
+        <item>Moskova</item>
+        <item>Kuwait</item>
+        <item>Nairobi</item>
+        <item>Tahran</item>
+        <item>Bakü</item>
+        <item>Tiflis</item>
+        <item>Erivan</item>
+        <item>Dubai</item>
+        <item>Kabil</item>
+        <item>İslamabat, Karaçi</item>
+        <item>Ural</item>
+        <item>Yekaterinburg</item>
+        <item>Kalküta</item>
+        <item>Sri Lanka</item>
+        <item>Kathmandu</item>
+        <item>Astana</item>
+        <item>Rangoon</item>
+        <item>Krasnoyarsk</item>
+        <item>Bangkok</item>
+        <item>Pekin</item>
+        <item>Hong Kong</item>
+        <item>Irkutsk</item>
+        <item>Kuala Lumpur</item>
+        <item>Perth</item>
+        <item>Taipei</item>
+        <item>Seul</item>
+        <item>Tokyo, Osaka</item>
+        <item>Yakutsk</item>
+        <item>Darwin</item>
+        <item>Brisbane</item>
+        <item>Vladivostok</item>
+        <item>Guam</item>
+        <item>Adelaide</item>
+        <item>Hobart</item>
+        <item>Canberra, Sydney</item>
+        <item>Magadan</item>
+        <item>Marshall Adaları</item>
+        <item>Fiji</item>
+        <item>Auckland</item>
+        <item>Tonga</item>
+    </string-array>
+    <string-array name="my_status_labels">
+        <item>Boş</item>
+        <item>Deneysel</item>
+        <item>Meşgul</item>
+        <item>Ofis dışında</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>Daima</item>
+        <item>Sadece Sessiz modda</item>
+        <item>Hiçbir zaman</item>
+    </string-array>
+</resources>

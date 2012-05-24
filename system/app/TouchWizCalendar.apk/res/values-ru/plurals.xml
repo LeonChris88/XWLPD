@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nminutes">
+        <item quantity="other">%d мин.</item>
+        <item quantity="one">1 минута</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="other">%d мин.</item>
+        <item quantity="one">1 минута</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">%d часов</item>
+        <item quantity="one">1 час</item>
+    </plurals>
+    <plurals name="Ndays">
+        <item quantity="other">%d дней</item>
+        <item quantity="one">1 день</item>
+    </plurals>
+    <plurals name="Nweeks">
+        <item quantity="other">%d недель</item>
+        <item quantity="one">1 неделя</item>
+    </plurals>
+</resources>

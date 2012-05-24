@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nminutes">
+        <item quantity="other">%d минут</item>
+        <item quantity="one">1 минут</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="other">%d мин</item>
+        <item quantity="one">1 мин</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">%d сағат</item>
+        <item quantity="one">1 сағат</item>
+    </plurals>
+    <plurals name="Ndays">
+        <item quantity="other">%d күн</item>
+        <item quantity="one">1 күн</item>
+    </plurals>
+    <plurals name="Nweeks">
+        <item quantity="other">%d апта</item>
+        <item quantity="one">1 апта</item>
+    </plurals>
+</resources>

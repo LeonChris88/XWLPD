@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="slide_duration">
+        <item quantity="other">%s secs</item>
+        <item quantity="one">%s s</item>
+        <item quantity="few">%s secs</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s resultats per a %2$s</item>
+        <item quantity="one">1 resultat per a %s</item>
+    </plurals>
+    <plurals name="Conversation_count">
+        <item quantity="other">%d converses</item>
+        <item quantity="one">1 conversa</item>
+    </plurals>
+    <plurals name="recipient_more">
+        <item quantity="other">%1$s i %2$d més</item>
+        <item quantity="one">%s i 1 més</item>
+    </plurals>
+    <plurals name="successful_copy_to_sdcard">
+        <item quantity="other">Fitxers adjunts copiats a la targeta SD</item>
+        <item quantity="one">Element adjunt copiat a la targeta SD</item>
+    </plurals>
+    <plurals name="failed_copy_to_sdcard">
+        <item quantity="other">Error en copiar els fitxers adj a la targeta SD</item>
+        <item quantity="one">Error en copiar el fitxer adjunt a la targeta SD</item>
+    </plurals>
+</resources>

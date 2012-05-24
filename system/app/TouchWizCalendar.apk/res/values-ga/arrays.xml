@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_minutes_labels">
+        <item>Dada</item>
+        <item>In am</item>
+        <item>5 nóim roimhe</item>
+        <item>15 nóim roimhe</item>
+        <item>1 uair an chloig roimhe</item>
+        <item>1 lá roimhe</item>
+        <item>2 lá roimhe</item>
+        <item>1 sheachtain roimhe</item>
+        <item>Saincheap</item>
+    </string-array>
+    <string-array name="reminder_minutes_values">
+        <item>-1</item>
+        <item>0</item>
+        <item>5</item>
+        <item>15</item>
+        <item>60</item>
+        <item>1440</item>
+        <item>2880</item>
+        <item>10080</item>
+        <item>-2</item>
+    </string-array>
+    <array name="preferences_default_reminder_labels" />
+    <array name="preferences_default_reminder_values" />
+    <string-array name="preferences_alert_type_labels">
+        <item>Foláireamh</item>
+        <item>Fógra barra stádais</item>
+        <item>As</item>
+    </string-array>
+    <string-array name="preferences_alert_type_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="availability">
+        <item>Gafa</item>
+        <item>Ar fáil</item>
+    </string-array>
+    <string-array name="visibility">
+        <item>Réamhshocraithe</item>
+        <item>Príobháideach</item>
+        <item>Poiblí</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>Chéad</item>
+        <item>Soicind</item>
+        <item>tríú</item>
+        <item>ceathrú</item>
+        <item>Deireanach</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>(Níl freagairt ann)</item>
+        <item>Déan é</item>
+        <item>B’fhéidir</item>
+        <item>Ná déan é</item>
+    </string-array>
+    <string-array name="response_labels2">
+        <item>Déan é</item>
+        <item>B’fhéidir</item>
+        <item>Ná déan é</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>An t-imeacht seo amháin</item>
+        <item>Gach imeacht</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>Gach imeacht</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>An uair seo amháin</item>
+        <item>Gach imeacht sa tsraith</item>
+    </string-array>
+    <array name="view_change_items" />
+    <array name="preferences_reminders_alert_type_labels" />
+    <array name="preferences_reminders_alert_type_values" />
+    <array name="preferences_reminders_default_reminder_labels" />
+    <array name="preferences_reminders_default_reminder_values" />
+    <string-array name="preferences_default_view_labels">
+        <item>Mí</item>
+        <item>Seachtain</item>
+        <item>Lá</item>
+        <item>Liostaigh</item>
+    </string-array>
+    <string-array name="preferences_default_view_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="preferences_day_view_labels">
+        <item>Greille ama</item>
+        <item>Liosta imeachtaí</item>
+    </string-array>
+    <string-array name="preferences_day_view_values">
+        <item>2</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="preferences_first_day_of_week_labels">
+        <item>Dé Luain</item>
+        <item>Dé Domhnaigh</item>
+    </string-array>
+    <string-array name="preferences_first_day_of_week_values">
+        <item>2</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="preferences_font_size_labels">
+        <item>Níos lú arís</item>
+        <item>Beag</item>
+        <item>Meánach</item>
+        <item>Mór</item>
+        <item>Tuilleadh mór</item>
+    </string-array>
+    <string-array name="on_off">
+        <item>As</item>
+        <item>Ar siúl</item>
+    </string-array>
+    <string-array name="alarmtone">
+        <item>Fuaimeanna</item>
+        <item>Gabh chuig Mo chomhaid</item>
+    </string-array>
+    <string-array name="repeat_labels">
+        <item>Ar feadh bliana</item>
+        <item>Ar feadh 5 bliain</item>
+        <item>Ar feadh 10 bliain</item>
+        <item>Ar feadh 50 bliain</item>
+    </string-array>
+    <string-array name="ordinary_prev">
+        <item>1ú sheachtain</item>
+        <item>2ú seachtain</item>
+        <item>3ú seachtain</item>
+        <item>4ú seachtain</item>
+        <item>5ú seachtain</item>
+        <item>6ú seachtain</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>Oileán Midway</item>
+        <item>Haváí</item>
+        <item>Alasca</item>
+        <item>Am an Aigéin Chiúin</item>
+        <item>Tijuana</item>
+        <item>Arizona</item>
+        <item>Chihuahua</item>
+        <item>Am an tSléibhe</item>
+        <item>Meiriceá Láir</item>
+        <item>Am Lárnach</item>
+        <item>Cathair Mheicsiceo</item>
+        <item>Saskatchewan</item>
+        <item>Bogatá</item>
+        <item>Am an Oirthir</item>
+        <item>Veiniséala</item>
+        <item>Am an Atlantaigh</item>
+        <item>Manaus</item>
+        <item>Talamh an Éisc</item>
+        <item>Santiago</item>
+        <item>Buenos Aires</item>
+        <item>An Ghraonlainn</item>
+        <item>Brasilia</item>
+        <item>Montevideo</item>
+        <item>An tAtlantach Láir</item>
+        <item>na hAsóir</item>
+        <item>Oileáin Rinn Verde</item>
+        <item>Casablanca</item>
+        <item>Londain, Baile Átha Cliath</item>
+        <item>Amstardam, Beirlín</item>
+        <item>Béalgrád</item>
+        <item>An Bhruiséil</item>
+        <item>Sairéavó</item>
+        <item>Am Iarthar na hAfraice</item>
+        <item>Windhoek</item>
+        <item>Amman, an Iordáin</item>
+        <item>An Aithin, Iostanbúl</item>
+        <item>Béiriút, an Liobáin</item>
+        <item>Caireo</item>
+        <item>Heilsincí</item>
+        <item>Iarúsailéim</item>
+        <item>Minsc</item>
+        <item>Harare</item>
+        <item>Bagdad</item>
+        <item>Moscó</item>
+        <item>Cuáit</item>
+        <item>Nairobi</item>
+        <item>Tehran</item>
+        <item>Baku</item>
+        <item>Tbilisi</item>
+        <item>Yerevan</item>
+        <item>Dubai</item>
+        <item>Cabúl</item>
+        <item>Islamabad, Karachi</item>
+        <item>"Ural'sk"</item>
+        <item>Yekaterinburg</item>
+        <item>Kolkata</item>
+        <item>Srí Lanca</item>
+        <item>Katmandu</item>
+        <item>Astana</item>
+        <item>Rangún</item>
+        <item>Krasnoyarsk</item>
+        <item>Bancác</item>
+        <item>Béising</item>
+        <item>Hong Cong</item>
+        <item>Irkutsk</item>
+        <item>Kuala Lumpur</item>
+        <item>Perth</item>
+        <item>Taipei</item>
+        <item>Súl</item>
+        <item>Tóiceo, Osaka</item>
+        <item>Yakutsk</item>
+        <item>Darwin</item>
+        <item>Brisbane</item>
+        <item>Vladivostok</item>
+        <item>Guam</item>
+        <item>Adelaide</item>
+        <item>Hobart</item>
+        <item>Canberra, Sydney</item>
+        <item>Magadan</item>
+        <item>Oileáin Marshall</item>
+        <item>Fidsí</item>
+        <item>Auckland</item>
+        <item>Tonga</item>
+    </string-array>
+    <string-array name="my_status_labels">
+        <item>Saor in aisce</item>
+        <item>Trialach</item>
+        <item>Gafa</item>
+        <item>As an oifig</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>I gcónaí</item>
+        <item>I mód Tostach amháin</item>
+        <item>Choíche</item>
+    </string-array>
+</resources>

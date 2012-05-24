@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nminutes">
+        <item quantity="other">%d minūtes</item>
+        <item quantity="one">1 minūte</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="other">%d minūtes</item>
+        <item quantity="one">1 min.</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">%d stundas</item>
+        <item quantity="one">1 stunda</item>
+    </plurals>
+    <plurals name="Ndays">
+        <item quantity="other">%d dienas</item>
+        <item quantity="one">1 diena</item>
+    </plurals>
+    <plurals name="Nweeks">
+        <item quantity="other">%d nedēļas</item>
+        <item quantity="one">1 nedēļa</item>
+    </plurals>
+</resources>

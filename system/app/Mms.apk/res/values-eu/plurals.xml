@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="slide_duration">
+        <item quantity="other">%s secs</item>
+        <item quantity="one">%s segundo</item>
+        <item quantity="few">%s secs</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s emaitza %2$s-rako</item>
+        <item quantity="one">Emaitza 1 %s(e)rentzat</item>
+    </plurals>
+    <plurals name="Conversation_count">
+        <item quantity="other">%d hizketaldi</item>
+        <item quantity="one">Hizketaldi 1</item>
+    </plurals>
+    <plurals name="recipient_more">
+        <item quantity="other">%1$s eta %2$d gehiago</item>
+        <item quantity="one">%s eta 1 gehiago</item>
+    </plurals>
+    <plurals name="successful_copy_to_sdcard">
+        <item quantity="other">Eranskinak SD txartelean kopiatuta</item>
+        <item quantity="one">SD txartelera kopiatutako eranskina</item>
+    </plurals>
+    <plurals name="failed_copy_to_sdcard">
+        <item quantity="other">Errorea eranskinak SD txartelean kopiatzean</item>
+        <item quantity="one">Errorea eranskina SD txartelean kopiatzean</item>
+    </plurals>
+</resources>

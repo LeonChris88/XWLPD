@@ -1,0 +1,790 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="error_keys">
+        <item>0_text</item>
+        <item>0_title</item>
+        <item>1000_text</item>
+        <item>1000_title</item>
+        <item>1001_text</item>
+        <item>1001_title</item>
+        <item>1002_text</item>
+        <item>1002_title</item>
+        <item>1003_text</item>
+        <item>1003_title</item>
+        <item>1004_text</item>
+        <item>1004_title</item>
+        <item>1005_text</item>
+        <item>1005_title</item>
+        <item>1008_text</item>
+        <item>1008_title</item>
+        <item>100_text</item>
+        <item>100_title</item>
+        <item>1011_text</item>
+        <item>1011_title</item>
+        <item>1014_text</item>
+        <item>1014_title</item>
+        <item>1015_text</item>
+        <item>1015_title</item>
+        <item>1016_text</item>
+        <item>1016_title</item>
+        <item>101_text</item>
+        <item>101_title</item>
+        <item>1020_text</item>
+        <item>1020_title</item>
+        <item>1023_text</item>
+        <item>1023_title</item>
+        <item>1024_text</item>
+        <item>1024_title</item>
+        <item>102_text</item>
+        <item>102_title</item>
+        <item>1036_text</item>
+        <item>1036_title</item>
+        <item>1037_text</item>
+        <item>1037_title</item>
+        <item>1038_text</item>
+        <item>1038_title</item>
+        <item>1039_text</item>
+        <item>1039_title</item>
+        <item>103_text</item>
+        <item>103_title</item>
+        <item>1040_text</item>
+        <item>1040_title</item>
+        <item>104_text</item>
+        <item>104_title</item>
+        <item>1050_text</item>
+        <item>1050_title</item>
+        <item>105_text</item>
+        <item>105_title</item>
+        <item>106_text</item>
+        <item>106_title</item>
+        <item>107_text</item>
+        <item>107_title</item>
+        <item>108_text</item>
+        <item>108_title</item>
+        <item>109_text</item>
+        <item>109_title</item>
+        <item>2000_text</item>
+        <item>2000_title</item>
+        <item>200_text</item>
+        <item>200_title</item>
+        <item>2010_text</item>
+        <item>2010_title</item>
+        <item>2011_text</item>
+        <item>2011_title</item>
+        <item>2012_text</item>
+        <item>2012_title</item>
+        <item>2013_text</item>
+        <item>2013_title</item>
+        <item>2014_text</item>
+        <item>2014_title</item>
+        <item>2015_text</item>
+        <item>2015_title</item>
+        <item>2016_text</item>
+        <item>2016_title</item>
+        <item>2017_text</item>
+        <item>2017_title</item>
+        <item>201_text</item>
+        <item>201_title</item>
+        <item>202_text</item>
+        <item>202_title</item>
+        <item>203_text</item>
+        <item>203_title</item>
+        <item>204_text</item>
+        <item>204_title</item>
+        <item>205_text</item>
+        <item>205_title</item>
+        <item>206_text</item>
+        <item>206_title</item>
+        <item>2099_text</item>
+        <item>2099_title</item>
+        <item>2100_text</item>
+        <item>2100_title</item>
+        <item>2101_text</item>
+        <item>2101_title</item>
+        <item>2102_text</item>
+        <item>2102_title</item>
+        <item>2103_text</item>
+        <item>2103_title</item>
+        <item>2105_text</item>
+        <item>2105_title</item>
+        <item>2106_text</item>
+        <item>2106_title</item>
+        <item>2107_text</item>
+        <item>2107_title</item>
+        <item>2108_text</item>
+        <item>2108_title</item>
+        <item>2109_text</item>
+        <item>2109_title</item>
+        <item>2110_text</item>
+        <item>2110_title</item>
+        <item>2111_text</item>
+        <item>2111_title</item>
+        <item>2112_text</item>
+        <item>2112_title</item>
+        <item>2113_text</item>
+        <item>2113_title</item>
+        <item>2114_text</item>
+        <item>2114_title</item>
+        <item>2115_text</item>
+        <item>2115_title</item>
+        <item>2199_text</item>
+        <item>2199_title</item>
+        <item>2200_text</item>
+        <item>2200_title</item>
+        <item>2221_text</item>
+        <item>2221_title</item>
+        <item>2240_text</item>
+        <item>2240_title</item>
+        <item>2241_text</item>
+        <item>2241_title</item>
+        <item>2242_text</item>
+        <item>2242_title</item>
+        <item>2243_text</item>
+        <item>2243_title</item>
+        <item>2261_text</item>
+        <item>2261_title</item>
+        <item>2320_text</item>
+        <item>2320_title</item>
+        <item>2321_text</item>
+        <item>2321_title</item>
+        <item>2322_text</item>
+        <item>2322_title</item>
+        <item>2323_text</item>
+        <item>2323_title</item>
+        <item>2361_text</item>
+        <item>2361_title</item>
+        <item>2362_text</item>
+        <item>2362_title</item>
+        <item>2363_text</item>
+        <item>2363_title</item>
+        <item>2364_text</item>
+        <item>2364_title</item>
+        <item>2431_text</item>
+        <item>2431_title</item>
+        <item>2432_text</item>
+        <item>2432_title</item>
+        <item>2433_text</item>
+        <item>2433_title</item>
+        <item>2451_text</item>
+        <item>2451_title</item>
+        <item>2601_text</item>
+        <item>2601_title</item>
+        <item>2781_text</item>
+        <item>2781_title</item>
+        <item>2782_text</item>
+        <item>2782_title</item>
+        <item>2801_text</item>
+        <item>2801_title</item>
+        <item>2802_text</item>
+        <item>2802_title</item>
+        <item>2803_text</item>
+        <item>2803_title</item>
+        <item>3000_text</item>
+        <item>3000_title</item>
+        <item>3001_text</item>
+        <item>3001_title</item>
+        <item>3002_text</item>
+        <item>3002_title</item>
+        <item>3003_text</item>
+        <item>3003_title</item>
+        <item>3004_text</item>
+        <item>3004_title</item>
+        <item>3005_text</item>
+        <item>3005_title</item>
+        <item>3006_text</item>
+        <item>3006_title</item>
+        <item>300_text</item>
+        <item>300_title</item>
+        <item>301_text</item>
+        <item>301_title</item>
+        <item>302_text</item>
+        <item>302_title</item>
+        <item>303_text</item>
+        <item>303_title</item>
+        <item>304_text</item>
+        <item>304_title</item>
+        <item>305_text</item>
+        <item>305_title</item>
+        <item>306_text</item>
+        <item>306_title</item>
+        <item>307_text</item>
+        <item>307_title</item>
+        <item>308_text</item>
+        <item>308_title</item>
+        <item>309_text</item>
+        <item>309_title</item>
+        <item>3100_text</item>
+        <item>3100_title</item>
+        <item>310_text</item>
+        <item>310_title</item>
+        <item>311_text</item>
+        <item>311_title</item>
+        <item>312_text</item>
+        <item>312_title</item>
+        <item>313_text</item>
+        <item>313_title</item>
+        <item>314_text</item>
+        <item>314_title</item>
+        <item>315_text</item>
+        <item>315_title</item>
+        <item>316_text</item>
+        <item>316_title</item>
+        <item>317_text</item>
+        <item>317_title</item>
+        <item>318_text</item>
+        <item>318_title</item>
+        <item>319_text</item>
+        <item>319_title</item>
+        <item>320_text</item>
+        <item>320_title</item>
+        <item>321_text</item>
+        <item>321_title</item>
+        <item>322_text</item>
+        <item>322_title</item>
+        <item>323_text</item>
+        <item>323_title</item>
+        <item>324_text</item>
+        <item>324_title</item>
+        <item>325_text</item>
+        <item>325_title</item>
+        <item>326_text</item>
+        <item>326_title</item>
+        <item>327_text</item>
+        <item>327_title</item>
+        <item>328_text</item>
+        <item>328_title</item>
+        <item>329_text</item>
+        <item>329_title</item>
+        <item>330_text</item>
+        <item>330_title</item>
+        <item>4001_text</item>
+        <item>4001_title</item>
+        <item>4002_text</item>
+        <item>4002_title</item>
+        <item>400_text</item>
+        <item>400_title</item>
+        <item>5001_text</item>
+        <item>5001_title</item>
+        <item>5002_text</item>
+        <item>5002_title</item>
+        <item>5003_text</item>
+        <item>5003_title</item>
+        <item>500_text</item>
+        <item>500_title</item>
+        <item>501_text</item>
+        <item>501_title</item>
+        <item>502_text</item>
+        <item>502_title</item>
+        <item>503_text</item>
+        <item>503_title</item>
+        <item>504_text</item>
+        <item>504_title</item>
+        <item>505_text</item>
+        <item>505_title</item>
+        <item>506_text</item>
+        <item>506_title</item>
+        <item>507_text</item>
+        <item>507_title</item>
+        <item>508_text</item>
+        <item>508_title</item>
+        <item>509_text</item>
+        <item>509_title</item>
+        <item>510_text</item>
+        <item>510_title</item>
+        <item>511_text</item>
+        <item>511_title</item>
+        <item>512_text</item>
+        <item>512_title</item>
+        <item>6001_text</item>
+        <item>6001_title</item>
+        <item>6002_text</item>
+        <item>6002_title</item>
+        <item>6003_text</item>
+        <item>6003_title</item>
+        <item>6004_text</item>
+        <item>6004_title</item>
+        <item>6005_text</item>
+        <item>6005_title</item>
+        <item>6006_text</item>
+        <item>6006_title</item>
+        <item>6007_text</item>
+        <item>6007_title</item>
+        <item>6008_text</item>
+        <item>6008_title</item>
+        <item>6009_text</item>
+        <item>6009_title</item>
+        <item>6010_text</item>
+        <item>6010_title</item>
+        <item>6011_text</item>
+        <item>6011_title</item>
+        <item>6012_text</item>
+        <item>6012_title</item>
+        <item>6013_text</item>
+        <item>6013_title</item>
+        <item>6014_text</item>
+        <item>6014_title</item>
+        <item>6015_text</item>
+        <item>6015_title</item>
+        <item>6016_text</item>
+        <item>6016_title</item>
+        <item>6017_text</item>
+        <item>6017_title</item>
+        <item>6018_text</item>
+        <item>6018_title</item>
+        <item>6019_text</item>
+        <item>6019_title</item>
+        <item>6020_text</item>
+        <item>6020_title</item>
+        <item>6021_text</item>
+        <item>6021_title</item>
+        <item>6022_text</item>
+        <item>6022_title</item>
+        <item>6023_text</item>
+        <item>6023_title</item>
+        <item>6024_text</item>
+        <item>6024_title</item>
+        <item>6025_text</item>
+        <item>6025_title</item>
+        <item>6026_text</item>
+        <item>6026_title</item>
+        <item>6027_text</item>
+        <item>6027_title</item>
+        <item>6028_text</item>
+        <item>6028_title</item>
+        <item>6029_text</item>
+        <item>6029_title</item>
+        <item>6030_text</item>
+        <item>6030_title</item>
+        <item>6031_text</item>
+        <item>6031_title</item>
+        <item>6032_text</item>
+        <item>6032_title</item>
+        <item>6033_text</item>
+        <item>6033_title</item>
+        <item>6034_text</item>
+        <item>6034_title</item>
+        <item>6035_text</item>
+        <item>6035_title</item>
+        <item>7001_text</item>
+        <item>7001_title</item>
+        <item>7002_text</item>
+        <item>7002_title</item>
+        <item>7003_text</item>
+        <item>7003_title</item>
+        <item>7004_text</item>
+        <item>7004_title</item>
+        <item>7005_text</item>
+        <item>7005_title</item>
+        <item>7010_text</item>
+        <item>7010_title</item>
+        <item>8001_text</item>
+        <item>8001_title</item>
+        <item>9001_text</item>
+        <item>9001_title</item>
+    </string-array>
+    <string-array name="error_values">
+        <item>Correcte.</item>
+        <item>Cap error</item>
+        <item>"S'ha superat el límit d'usuari de {0}"</item>
+        <item>"S'ha superat el límit d'usuari"</item>
+        <item>Usuari duplicat: {0}</item>
+        <item>Usuari duplicat</item>
+        <item>Dispositiu duplicat: {0}</item>
+        <item>Dispositiu duplicat</item>
+        <item>"No s'ha trobat l'usuari: {0}"</item>
+        <item>"No s'ha trobat l'usuari"</item>
+        <item>"Format de data no vàlid: {0}. S'esperava {1}."</item>
+        <item>Format de data no vàlid</item>
+        <item>"Format de data no vàlid: {0}. S'esperava {1}"</item>
+        <item>Format de data no vàlid</item>
+        <item>Falta un paràmetre obligatori: {0}</item>
+        <item>Falta un paràmetre obligatori</item>
+        <item>"S'ha produït un error. Torneu-ho a intentar."</item>
+        <item>Error intern</item>
+        <item>"No s'ha trobat l'ID d'establiment proporcionat ({0}) en cap distribuïdor al qual hagi accedit l'usuari."</item>
+        <item>"No s'ha trobat la marca"</item>
+        <item>"No s'ha definit cap data de caducitat"</item>
+        <item>"No s'ha definit cap data de caducitat"</item>
+        <item>Accés denegat</item>
+        <item>Accés denegat</item>
+        <item>Accés IP no permès per: {0}</item>
+        <item>Accés IP no habilitat</item>
+        <item>"S'ha produït un error. Torneu-ho a intentar."</item>
+        <item>Error de sol·licitud incorrecta</item>
+        <item>Error intern: {0}</item>
+        <item>Error intern</item>
+        <item>Ja existeix una subscripció amb les dades proporcionades</item>
+        <item>Subscripció duplicada</item>
+        <item>"S'han trobat diverses subscripcions coincidents"</item>
+        <item>"S'han trobat diverses subscripcions coincidents"</item>
+        <item>"S'ha produït un error mentre s'intentava iniciar la sessió. Torneu-ho a intentar més tard."</item>
+        <item>Error de connexió</item>
+        <item>"No s'ha trobat la consulta {0}"</item>
+        <item>"No s'ha trobat la consulta"</item>
+        <item>Paràmetres inconsistents: {0} i {1}</item>
+        <item>Paràmetres inconsistents</item>
+        <item>Format MSISDN no vàlid: {0}</item>
+        <item>Format MSISDN no vàlid</item>
+        <item>Paràmetre de producte no vàlid: {0}</item>
+        <item>Paràmetre de producte no vàlid</item>
+        <item>"No s'ha pogut trobar el connector. Confirmeu l'ID del connector que heu introduït."</item>
+        <item>"No s'ha trobat el connector"</item>
+        <item>"No s'ha trobat la subscripció"</item>
+        <item>"No s'ha trobat la subscripció"</item>
+        <item>"S'ha produït un error mentre s'enviaven les dades. Torneu-ho a intentar."</item>
+        <item>Error de dades</item>
+        <item>Error de la crida de rèplica a la plataforma AOM</item>
+        <item>Error de la crida de rèplica a la plataforma AOM</item>
+        <item>"L'acció ha trigat massa a completar-se i s'ha esgotat el temps. Torneu-ho a intentar."</item>
+        <item>"Temps d'espera"</item>
+        <item>No es pot connectar amb el vostre compte de correu electrònic. La connexió es restaurarà automàticament. Si el problema continua, comproveu la configuració de la xarxa o poseu-vos en contacte amb el proveïdor de serveis per rebre ajuda.</item>
+        <item>Problema de connexió</item>
+        <item>"La xarxa no està disponible temporalment o el telèfon està en mode d'avió. La connexió es restaurarà automàticament quan la xarxa estigui disponible."</item>
+        <item>Error de connexió</item>
+        <item>Aquest servidor està ocupat en aquests moments. Torneu-ho a intentar.</item>
+        <item>Servidor ocupat</item>
+        <item>"Error de sol·licitud d'IPC general"</item>
+        <item>"Error de sol·licitud d'IPC"</item>
+        <item>"Error d'autenticació per: {0}"</item>
+        <item>"Error d'autenticació"</item>
+        <item>Poseu-vos en contacte amb el proveïdor de serveis per obtenir una llicència vàlida.</item>
+        <item>Llicència no acceptada</item>
+        <item>"No s'ha trobat l'ID de client al contingut de l'SMS"</item>
+        <item>"No s'ha trobat l'ID de client al contingut de l'SMS"</item>
+        <item>"No s'ha trobat cap client amb l'ID de client ({0})."</item>
+        <item>"No s'ha trobat cap client amb l'ID de client especificat"</item>
+        <item>La informació MSISDN especificada no és vàlida o està incompleta: {0}</item>
+        <item>"No s'ha proporcionat la informació MSISDN o aquesta no és vàlida."</item>
+        <item>"Format MSISDN no vàlid: {0}. S'esperava un valor numèric."</item>
+        <item>Format MSISDN no vàlid</item>
+        <item>"Format d'ID de client no vàlid: {0}. S'esperava un valor numèric."</item>
+        <item>"Format d'ID de client no vàlid"</item>
+        <item>"No s'ha trobat la capçalera de càrrega prevista a la sol·licitud de validació"</item>
+        <item>Error de validació de la capçalera de càrrega</item>
+        <item>MSISDN {0} ja existeix al sistema.</item>
+        <item>MSISDN ja existeix</item>
+        <item>MSISDN {0} no existeix al sistema.</item>
+        <item>MSISDN no existeix</item>
+        <item>Introduïu la contrasenya temporal per tornar a instal·lar aquest [connector].</item>
+        <item>La contrasenya és obligatòria</item>
+        <item>"L'ID escollit ja està en ús. Seleccioneu-ne un de diferent."</item>
+        <item>"L'ID ja està en ús"</item>
+        <item>La contrasenya temporal proporcionada no és correcta.</item>
+        <item>Error de connexió</item>
+        <item>"El connector s'ha inhabilitat."</item>
+        <item>Connector inhabilitat</item>
+        <item>El servei no ha estat habilitat</item>
+        <item>Servei no habilitat</item>
+        <item>"L'edició del producte proporcionada no coincideix amb l'edició instal·lada al servidor de retransmissió"</item>
+        <item>"L'edició del producte no coincideix"</item>
+        <item>Error de la transacció per un motiu no especificat: {0}</item>
+        <item>Error de la transacció per un motiu no especificat</item>
+        <item>"Error d'autenticació per: {0}"</item>
+        <item>"Error d'autenticació"</item>
+        <item>Accés no permès per: {0}</item>
+        <item>Accés no permès</item>
+        <item>"El compte d'usuari {0} està bloquejat"</item>
+        <item>Compte bloquejat</item>
+        <item>Error en una part del lot de transaccions.</item>
+        <item>Error en una part del lot de transaccions.</item>
+        <item>La crida a llista ha generat {0} registres, el límit és de {1}.</item>
+        <item>La llista de resultats supera la mida permesa</item>
+        <item>La crida de lots ha sol·licitat {0} transaccions, el límit és {1}.</item>
+        <item>La sol·licitud de transacció de lots ha excedit la mida màxima</item>
+        <item>"A la crida d'API hi faltava un paràmetre obligatori: {0}"</item>
+        <item>"Falta un paràmetre obligatori a la crida d'API."</item>
+        <item>"El paràmetre {0} no es vàlid per aquesta crida d'API."</item>
+        <item>"La crida d'API contenia un paràmetre no vàlid."</item>
+        <item>"S'ha produït un error de la base de dades mentre es processava aquesta sol·licitud: {0}"</item>
+        <item>"Error de base de dades generat per la crida d'API."</item>
+        <item>"Els caràcters comodí no es poden utilitzar amb aquestes credencials d'accés."</item>
+        <item>Ús il·legal de caràcters comodí.</item>
+        <item>Caràcter comodí no vàlid al paràmetre de sol·licitud: {0}</item>
+        <item>Caràcters comodí no vàlids a la sol·licitud.</item>
+        <item>"S'ha rebut la sol·licitud SOAP sense capçalera o amb una capçalera no vàlida."</item>
+        <item>"S'ha rebut la sol·licitud SOAP sense capçalera o amb una capçalera no vàlida."</item>
+        <item>"S'ha rebut la sol·licitud SOAP sense un paràmetre de capçalera obligatori: {0}"</item>
+        <item>"S'ha rebut la sol·licitud SOAP sense un paràmetre de capçalera."</item>
+        <item>"S'ha rebut la sol·licitud SOAP des de l'adreça IP: {0}. Aquesta adreça no té permès d'utilitzar l'API."</item>
+        <item>"S'ha rebut la sol·licitud SOAP des d'una adreça IP bloquejada."</item>
+        <item>Accés IP no permès per: {0}</item>
+        <item>Accés IP no habilitat</item>
+        <item>Error de la sol·licitud SOAP per un motiu no especificat: {0}</item>
+        <item>Error de la sol·licitud SOAP per un motiu no especificat</item>
+        <item>"La crida d'API createAccountSubscription necessita un paràmetre AccountID o MSISDN."</item>
+        <item>La crida createAccountSubscription no inclou AccountID o MSISDN.</item>
+        <item>"Per utilitzar un paràmetre de producte a la crida d'API listAccountSubscription cal especificar com a mínim un MSISDN, AccountID i GroupID."</item>
+        <item>"Crida listAccountSubscriptions amb paràmetre de producte però sense paràmetre d'ID."</item>
+        <item>"Els criteris d'identificació de subscripcions proporcionats coincideixen amb diversos registres. No s'ha processat l'actualització."</item>
+        <item>"Els criteris d'identificació de subscripcions coincideixen amb diversos registres."</item>
+        <item>"S'ha proporcionat un conjunt no vàlid de paràmetres d'identificació."</item>
+        <item>"S'ha proporcionat un conjunt de paràmetres d'ID no vàlids."</item>
+        <item>"S'ha realitzat una crida d'API updateAccountSubscription, sense camps per actualitzar."</item>
+        <item>"No s'ha proporcionat camps per a l'actualització."</item>
+        <item>"Els criteris d'identificació de subscripcions proporcionats no coincideixen amb cap registre. No s'ha processat cap actualització."</item>
+        <item>"Els criteris d'identificació de subscripcions no coincideixen amb cap registre."</item>
+        <item>"Per utilitzar un paràmetre de producte a la crida d'API deleteAccountSubscription cal especificar com a mínim un MSISDN, AccountID i GroupID."</item>
+        <item>"Crida deleteAccountSubscriptions amb paràmetre de producte però sense paràmetre d'ID."</item>
+        <item>"Els criteris d'identificació de subscripcions proporcionats coincideixen amb diversos registres. No s'ha processat l'actualització."</item>
+        <item>"Els criteris d'identificació de subscripcions coincideixen amb diversos registres."</item>
+        <item>"La crida d'API updateConnectorSubscription necessita un paràmetre SubscriptionId o ConnectorId."</item>
+        <item>"S'ha proporcionat un conjunt de paràmetres d'ID no vàlids."</item>
+        <item>"S'ha realitzat una crida d'API updateConnectorSubscription, sense camps per actualitzar."</item>
+        <item>"No s'ha proporcionat camps per a l'actualització."</item>
+        <item>"Els criteris d'identificació de subscripcions proporcionats no coincideixen amb cap registre. No s'ha processat cap actualització."</item>
+        <item>"Els criteris d'identificació de subscripcions no coincideixen amb cap registre."</item>
+        <item>"Si la crida d'API createPreProvisionedAccount es realitza amb CE com a producte, caldrà especificar un ID d'establiment i un ID de marca de servidor ISP. Si el producte és qualsevol altre, caldrà especificar un ID de connector."</item>
+        <item>La crida createPreProvisionedAccount inclou paràmetres no vàlids.</item>
+        <item>"El nom de l'empresa introduït no s'ha trobat a la base de dades, o bé l'ID d'establiment introduït no coincideix amb una empresa d'ISP."</item>
+        <item>"No s'ha pogut trobar una empresa amb els paràmetres."</item>
+        <item>"No s'ha trobat l'ID de marca del servidor ISP a la base de dades."</item>
+        <item>"No s'ha trobat l'ID de marca del servidor ISP a la base de dades."</item>
+        <item>"El servidor ISP ha detectat que l'ID de marca d'entrada no admet el tipus de producte indicat."</item>
+        <item>"El servidor ISP ha detectat que l'ID de marca d'entrada no admet el tipus de producte indicat."</item>
+        <item>"Hi ha més d'un compte apte per a l'actualització. La contrasenya no es pot actualitzar."</item>
+        <item>"changeAccountPassword coincideix amb més d'un compte."</item>
+        <item>"No hi ha comptes aptes per a l'actualització. No s'actualitzarà cap contrasenya."</item>
+        <item>changeAccountPassword no coincideix amb cap compte.</item>
+        <item>"S'ha produït un error mentre s'intentava actualitzar la contrasenya, possiblement causat per una contrasenya no vàlida."</item>
+        <item>changeAccountPassword no ha pogut actualitzar la contrasenya.</item>
+        <item>"Es va fer una sol·licitud per generar una llista amb la informació de l'usuari, però els paràmetres proporcionats no coincideixen amb cap usuari existent"</item>
+        <item>"getUserInformation no pot trobar l'usuari amb els paràmetres especificats"</item>
+        <item>"La crida d'isValidConnectorId inclou un ID que ja està en ús."</item>
+        <item>"L'ID del connector ja està en ús."</item>
+        <item>La crida runScript inclou paràmetres no vàlids per a la seqüència SQL especificada.</item>
+        <item>Paràmetres per a seqüència SQL no vàlids.</item>
+        <item>Crida de runScript a una seqüència SQL desconeguda.</item>
+        <item>"No s'ha trobat la seqüència SQL."</item>
+        <item>"La funció d'enviament de l'enllaç de descàrrega no està habilitada a API."</item>
+        <item>Crida de sendDownloadLink quan la funció no estava habilitada.</item>
+        <item>"Error de sol·licitud de missatge a la passarel·la d'SMS."</item>
+        <item>"Error de sol·licitud de missatge a la passarel·la d'SMS."</item>
+        <item>"No s'ha pogut trobar un client amb els paràmetres especificats."</item>
+        <item>"No s'ha pogut trobar un client amb els paràmetres especificats."</item>
+        <item>"La prova de correu ha fallat perquè no s'ha trobat el proveïdor de correu especificat. Heu d'utilitzar POP3, IMAP, POP3S, IMAPS, SMTP o SMTPS com a proveïdor."</item>
+        <item>"No s'ha trobat el proveïdor de correu electrònic"</item>
+        <item>La prova de correu ha fallat perquè la connexió al servidor de correu especificat ha fallat. Comproveu la configuració de la bústia de correu</item>
+        <item>Error de connexió</item>
+        <item>La prova de correu ha fallat perquè la connexió al servidor de correu especificat ha fallat. Comproveu la configuració de la bústia de correu</item>
+        <item>"No s'ha trobat la safata d'entrada"</item>
+        <item>"La prova de correu ha fallat perquè la cerca de missatges a la safata d'entrada ha fallat. Comproveu la configuració de la bústia de correu"</item>
+        <item>"Error de cerca de safata d'entrada"</item>
+        <item>"La prova de correu ha fallat degut a una adreça de correu electrònic no vàlida. Comproveu l'adreça de correu electrònic especificada"</item>
+        <item>Adreça de correu electrònic no vàlida</item>
+        <item>El fitxer adjunt supera la mida màxima.</item>
+        <item>La mida del fitxer adjunt és massa gran.</item>
+        <item>La mida del cos del missatge és massa gran.</item>
+        <item>La mida del cos és massa gran.</item>
+        <item>"L'intent d'inici de sessió ha fallat perquè {0} o la contrasenya no són vàlids. Comproveu {0} i la contrasenya i torneu-ho a intentar."</item>
+        <item>Inici de sessió incorrecte</item>
+        <item>"L'intent d'inici de sessió ha fallat perquè {0}, la contrasenya o la configuració no són vàlids. Comproveu {0}, la contrasenya i la configuració i torneu-ho a intentar."</item>
+        <item>Inici de sessió incorrecte</item>
+        <item>"L'intent d'inici de sessió ha fallat perquè {0} no és vàlid. Comproveu {0} i torneu-ho a intentar."</item>
+        <item>"No s'ha trobat l'usuari"</item>
+        <item>"El nom d'usuari proporcionat té diverses subscripcions. Comproveu {0} i la contrasenya i torneu-ho a intentar."</item>
+        <item>"No s'ha trobat l'usuari"</item>
+        <item>"No s'ha trobat la configuració del servidor de correu. Especifiqueu els detalls del compte a la pantalla següent."</item>
+        <item>"No s'ha trobat el servidor"</item>
+        <item>"Error d'inici de sessió. Introduïu el nom d'usuari del compte de correu electrònic si no és el mateix que l'adreça de correu electrònic."</item>
+        <item>"Error d'inici de sessió"</item>
+        <item>"L'autenticació amb aquest compte ha fallat massa cops. Espereu que es desbloquegi o poseu-vos en contacte amb l'administrador."</item>
+        <item>Compte bloquejat</item>
+        <item>Aquest número de telèfon ja ha estat registrat. Confirmeu que heu introduït el número de telèfon correcte o poseu-vos en contacte amb el proveïdor de serveis per obtenir ajuda.</item>
+        <item>El compte preestablert ja existeix</item>
+        <item>"La connexió s'ha redirigit a un servidor diferent per millorar el rendiment. Torneu a intentar l'última acció."</item>
+        <item>Redirigit</item>
+        <item>El servidor de correu electrònic no està disponible actualment. Torneu-ho a intentar més tard.</item>
+        <item>"Error d'inici de sessió"</item>
+        <item>La prova de correu ha fallat degut a un error {0}. Comproveu la configuració de la bústia de correu</item>
+        <item>Error desconegut</item>
+        <item>"L'autenticació amb aquest compte ha fallat massa cops. S'evitaran més intents d'inici de sessió des del connector. Espereu que es desbloquegi o poseu-vos en contacte amb l'administrador del connector per permetre més intents d'inici de sessió."</item>
+        <item>Inicis de sessió inhabilitats</item>
+        <item>"Feu clic a D'acord per comprovar {0} i la contrasenya/comproveu el testimoni RSA abans de tornar-ho a intentar."</item>
+        <item>"Inici de sessió d'RSA incorrecte"</item>
+        <item>La versió de client que esteu utilitzant no està certificada per aquest proveïdor de correu. Poseu-vos en contacte amb el proveïdor per obtenir una versió de client certificada.</item>
+        <item>El client no té certificat per aquest ISP.</item>
+        <item>"L'adreça del servidor Microsoft Exchange proporcionada no és una adreça web vàlida. Confirmeu l'adreça i torneu-ho a intentar."</item>
+        <item>Adreça de Microsoft Exchange: no vàlida</item>
+        <item>El proveïdor està disponible com a servei avançat. Torneu a la llista de proveïdors i seleccioneu-lo un altre cop.</item>
+        <item>"L'URL proporcionat no està permès."</item>
+        <item>"La clau pública del punt final remot ha canviat. Això pot indicar un intent d'intrusió. S'han descartat les dades del punt final remot."</item>
+        <item>La clau pública no coincideix.</item>
+        <item>"No es pot tornar a iniciar sessió. Aquest error indica que l'usuari no pot escriure les noves credencials per tornar a iniciar sessió al servei, sinó que ha de realitzar una altra acció"</item>
+        <item>No es pot tornar a iniciar sessió</item>
+        <item>"El servidor de l'adreça proporcionada no respon. Si s'utilitza un portal VPN/SSL, no es pot utilitzar Microsoft Exchange per accedir als correus electrònics del lloc de treball. Seleccioneu D'acord per accedir al correu electrònic del lloc de treball amb l'opció de connexió següent."</item>
+        <item>Adreça OWA: no respon</item>
+        <item>"El servidor de l'adreça proporcionada no és un servidor Microsoft Exchange. Confirmeu l'adreça del servidor Microsoft Exchange i torneu-ho a intentar."</item>
+        <item>Adreça de Microsoft Exchange: tipus incorrecte</item>
+        <item>"La contrasenya ha caducat. Canvieu la contrasenya mitjançat l'ordinador i torneu-ho a intentar amb la nova contrasenya."</item>
+        <item>La contrasenya ha caducat</item>
+        <item>"Heu arribat al límit màxim de telèfons que podeu establir. Poseu-vos en contacte amb l'administrador."</item>
+        <item>Massa telèfons</item>
+        <item>"No hi ha cap fitxer d'ID de Notes disponible, no es pot iniciar la sessió. Poseu-vos en contacte amb el vostre administrador."</item>
+        <item>"No hi ha cap fitxer d'ID disponible"</item>
+        <item>El servei sol·licitat no està disponible temporalment. Torneu-ho a intentar més tard. Si el problema continua, inicieu sessió al compte mitjançant el navegador web.</item>
+        <item>El servei ISP no està disponible temporalment</item>
+        <item>"Inici de sessió web obligatori retornat de l'ISP. Inicieu sessió al compte mitjançant el navegador web."</item>
+        <item>Inici de sessió web obligatori</item>
+        <item>"S'ha produït un error d'ISP. Torneu-ho a intentar més tard. Si el problema continua, intenteu d'iniciar sessió mitjançant el navegador web."</item>
+        <item>"Error retornat per l'ISP."</item>
+        <item>La bústia de correu actualment està en ús. Torneu-ho a intentar més tard.</item>
+        <item>La bústia de correu actualment està en ús.</item>
+        <item>"Cap resposta per a l'URL de subministrament. Corregiu l'URL o torneu-ho a intentar més tard."</item>
+        <item>Cap resposta per aquest URL de subministrament.</item>
+        <item>Parental consent is needed.</item>
+        <item>Parental Consent Required.</item>
+        <item>The Feed Id is invalid. Please correct the id and try again later.</item>
+        <item>Invalid Feed Id</item>
+        <item>Subscription with the provided details already exists</item>
+        <item>Duplicate Feed Subscription</item>
+        <item>This account has been removed remotely.</item>
+        <item>Account has been wiped remotely</item>
+        <item>"No es pot connectar amb el vostre correu electrònic de Exchange Access. La connexió es restaurarà automàticament; si el problema continua, poseu-vos en contacte amb l'administrador de TI per rebre ajuda."</item>
+        <item>Problema de connexió</item>
+        <item>No es pot connectar amb el vostre correu electrònic de {0}. La connexió es restaurarà automàticament; si el problema continua, poseu-vos en contacte amb {0} per rebre ajuda.</item>
+        <item>Problema de connexió</item>
+        <item>"Error de l'intent d'acció d'actualització del compte. Torneu-ho a intentar."</item>
+        <item>"Error d'actualització"</item>
+        <item>"L'XML de la sol·licitud RPC no era vàlid."</item>
+        <item>XML format incorrectament a RPC</item>
+        <item>"S'ha produït un error intern a l'API XML RPC. Torneu-ho a intentar."</item>
+        <item>"Error intern a l'API d'XML RPC"</item>
+        <item>"Paràmetres no vàlids o inexistents a la sol·licitud d'XML RPC. Comproveu els paràmetres i els seus valors."</item>
+        <item>Falten els paràmetres o no son vàlids</item>
+        <item>El servei no ha pogut desar les vostres dades. Torneu-ho a intentar.</item>
+        <item>Error de base de dades</item>
+        <item>Ja existeix una organització amb aquest nom. Seleccioneu un nom diferent.</item>
+        <item>"L'organització ja existeix"</item>
+        <item>"L'ID del connector que heu especificat ja està en ús. Seleccioneu-ne un de diferent."</item>
+        <item>El nom ja està en ús</item>
+        <item>"El nom d'usuari que heu especificat ja està en ús. Seleccioneu-ne un de diferent."</item>
+        <item>"El nom d'usuari ja està en ús"</item>
+        <item>Aquest usuari ja existeix.</item>
+        <item>"L'usuari ja existeix"</item>
+        <item>"El compte preestablert que heu intentat crear ja existeix. L'administrador del connector ha d'eliminar aquest compte existent abans d'afegir-ne un de nou."</item>
+        <item>El compte preestablert ja existeix</item>
+        <item>"No teniu drets d'accés suficients per realitzar aquesta operació."</item>
+        <item>Accés denegat</item>
+        <item>La subscripció ha caducat. Poseu-vos en contacte amb el proveïdor de serveis per renovar-la.</item>
+        <item>No es pot iniciar la sessió</item>
+        <item>La subscripció no permet afegir més comptes. Aneu a http://eu020.fra.samsungsocialhub.com per actualitzar la subscripció.</item>
+        <item>No es pot iniciar la sessió</item>
+        <item>Aneu a http://eu020.fra.samsungsocialhub.com per subscriure-us a Social Hub.</item>
+        <item>No es pot iniciar la sessió</item>
+        <item>"S'ha detectat un problema amb el certificat SSL d'aquest lloc web."</item>
+        <item>Emissió del certificat</item>
+        <item>"L'URL especificat no pertany a un servei d'Outlook Web Access. Comproveu l'URL i torneu-ho a intentar."</item>
+        <item>Adreça de servei no vàlida</item>
+        <item>Aquest URL està preconfigurat. Torneu a la llista de proveïdors preconfigurats i seleccioneu el vostre proveïdor.</item>
+        <item>Accés denegat</item>
+        <item>El contacte no estava en línia quan se li va intentar enviar el missatge</item>
+        <item>Contacte fora de línia</item>
+        <item>El contacte estava bloquejat quan se li va intentar enviar el missatge</item>
+        <item>Contacte bloquejat</item>
+        <item>La mida del fitxer a la transferència de fitxers no coincideix amb el valor especificat</item>
+        <item>La mida de fitxer no coincideix</item>
+        <item>"S'ha superat el màxim de sessió p2p"</item>
+        <item>"S'ha superat el màxim de sessió p2p"</item>
+        <item>Falta la data de naixement</item>
+        <item>Falta la data de naixement</item>
+        <item>El destinatari no admet la transferència de fitxers</item>
+        <item>"No s'admet la sessió p2p"</item>
+        <item>"L'usuari s'ha de registrar amb el servei de missatgeria"</item>
+        <item>El registre ha caducat</item>
+        <item>La sol·licitud no es pot completar perquè el servidor està ocupat. Torneu-ho a intentar més tard</item>
+        <item>Servidor ocupat</item>
+        <item>"No s'admet VoiceClip en aquesta conversa"</item>
+        <item>"No s'admet el clip de veu"</item>
+        <item>Només es permeten dos participants en una conversa per a una operació de transferència de fitxers</item>
+        <item>Hi ha massa participants</item>
+        <item>No hi ha participants a la conversa especificada</item>
+        <item>No hi ha cap participant</item>
+        <item>"El control dels pares no permet l'inici de sessió a Messenger"</item>
+        <item>Permís dels pares obligatori</item>
+        <item>"L'identificador de conversa no és vàlid. L'aplicació client ha d'abandonar aquesta conversa"</item>
+        <item>ID de trucada no vàlid</item>
+        <item>"S'ha intentat enviar una sol·licitud d'invitació i l'estat de presència de l'usuari (al dispositiu client) està definit com a Fora de línia"</item>
+        <item>Usuari fora de línia</item>
+        <item>"Una sol·licitud d'invitació ha intentat afegir un usuari no vàlid"</item>
+        <item>Usuari desconegut</item>
+        <item>"No s'ha trobat cap configuració per al domini de correu electrònic especificat"</item>
+        <item>ISP desconegut</item>
+        <item>"Els errors d'autenticació basada en testimoni es tracten de forma diferent, com aquest error."</item>
+        <item>"Error d'autenticació basada en testimoni"</item>
+        <item>Per poder utilitzar aquest servei, és necessària la subscripció.</item>
+        <item>La subscripció és obligatòria</item>
+        <item>No hi ha cap servei Seven disponible.</item>
+        <item>Cap Servei disponible</item>
+        <item>"S'ha tancat la vostra sessió perquè heu iniciat sessió en un ordinador o dispositiu diferent"</item>
+        <item>"S'ha interceptat el compte"</item>
+        <item>Usertile does not exist.</item>
+        <item>Usertile does not exist.</item>
+        <item>The file transfer session is either cancelled or invalid</item>
+        <item>p2p session not found</item>
+        <item>The file transfer session already exists</item>
+        <item>p2p session already exists</item>
+        <item>The file in the file transfer session is unknown</item>
+        <item>file in the p2p session is unknown</item>
+        <item>The file transfer session is cancelled</item>
+        <item>p2p session is cancelled</item>
+        <item>The file transfer session is in wrong status</item>
+        <item>p2p session is in wrong status</item>
+        <item>The file transfer session is timed out</item>
+        <item>p2p session is timed out</item>
+        <item>File size in the p2p session is too big</item>
+        <item>file size in the p2p session is too big</item>
+        <item>The specified ROOM ID not existing</item>
+        <item>The specified ROOM ID not existing</item>
+        <item>Fail to create the ROOM while invite a buddy to group chat</item>
+        <item>Fail to create the ROOM while invite a buddy to group chat</item>
+        <item>Fail to enter the specified ROOM, with reason other than nickname conflict</item>
+        <item>Fail to enter the specified ROOM, with reason other than nickname conflict</item>
+        <item>The specified nickname is conflict with exist one in the ROOM so that the user cannot enter it</item>
+        <item>The specified nickname is conflict with exist one in the ROOM</item>
+        <item>Multi-user chat is not supported at sending side</item>
+        <item>Multi-user chat is not supported at sending side</item>
+        <item>999 typically indicates actions have triggered yahoo spam filters</item>
+        <item>Spam filter error.</item>
+        <item>More than one files in one file session</item>
+        <item>Too many files per file session.</item>
+        <item>"No s'ha pogut crear el compte durant el registre a Ping"</item>
+        <item>Error en crear el compte</item>
+        <item>Clau de servei no vàlida en registrar-se al servidor amfitrió</item>
+        <item>Clau de servei no vàlida</item>
+        <item>Descriptor de servei no vàlid en registrar-se al servidor amfitrió</item>
+        <item>Descriptor de servei no vàlid</item>
+        <item>Dades personalitzades no vàlides en registrar-se al servidor amfitrió</item>
+        <item>Dades personalitzades no vàlides</item>
+        <item>"L'usuari ja s'ha registrat al servidor amfitrió"</item>
+        <item>"L'usuari ja està registrat"</item>
+        <item>"The nickname update operation isn't supported by this gateway"</item>
+        <item>Nickname update not supported</item>
+        <item>"S'ha produït un error mentre es descobrien serveis. Torneu-ho a intentar."</item>
+        <item>Error de sol·licitud</item>
+        <item>"S'ha produït un error de facturació. Poseu-vos en contacte amb el proveïdor per obtenir més informació."</item>
+        <item>Error de facturació.</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Mostrar el text del missatge en lletra diminuta</item>
+        <item>Mostrar el text del missatge en lletra petita</item>
+        <item>Mostrar el text del missatge en lletra normal</item>
+        <item>Mostrar el text del missatge en lletra gran</item>
+        <item>Mostrar el text del missatge en lletra enorme</item>
+    </string-array>
+    <string-array name="general_preference_preview_line_summary_array">
+        <item>Mostrar 0 línies a la vista prèvia del missatge</item>
+        <item>Mostrar 1 línia a la vista prèvia del missatge</item>
+        <item>Mostrar 2 línies a la vista prèvia del missatge</item>
+        <item>Mostrar 3 línies a la vista prèvia del missatge</item>
+    </string-array>
+    <string-array name="search_list">
+        <item>Google</item>
+        <item>Traductor de Google</item>
+        <item>Wikipedia</item>
+        <item>Diccionari</item>
+    </string-array>
+    <string-array name="share_list">
+        <item>Compartir com a text</item>
+        <item>Compartir com a imatge</item>
+    </string-array>
+</resources>

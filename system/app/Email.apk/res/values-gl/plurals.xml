@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="gal_completed_fmt">
+        <item quantity="other">%1$d resultados de %2$s</item>
+        <item quantity="one">%1$d result from %2$s</item>
+    </plurals>
+    <plurals name="message_deleted_toast">
+        <item quantity="other">Mensaxes eliminadas</item>
+        <item quantity="one">Mensaxe eliminada</item>
+    </plurals>
+    <plurals name="move_messages">
+        <item quantity="other">Mover mensaxes</item>
+        <item quantity="one">Mover mensaxe</item>
+    </plurals>
+    <plurals name="notification_new_one_account_fmt">
+        <item quantity="other">%d correos electrónicos novos ( %s )</item>
+        <item quantity="one">%1$d novo correo electrónico ( %s )</item>
+        <item quantity="few">%d correos electrónicos novos ( %s )</item>
+    </plurals>
+    <plurals name="notification_new_multi_account_fmt">
+        <item quantity="other">en %d contas</item>
+        <item quantity="few">en %d contas</item>
+    </plurals>
+    <plurals name="number_of_accounts">
+        <item quantity="other">%d contas</item>
+        <item quantity="one">%d conta</item>
+    </plurals>
+    <plurals name="message_view_selected_message_count">
+        <item quantity="other">%d seleccionadas</item>
+        <item quantity="one">%d seleccionadas</item>
+    </plurals>
+    <plurals name="message_view_show_attachments_action">
+        <item quantity="other">Adxuntos %1$d</item>
+        <item quantity="one">Adxunto %1$d</item>
+    </plurals>
+    <plurals name="message_delete_confirm">
+        <item quantity="other">Discard these messages?</item>
+        <item quantity="one">Discard this message?</item>
+    </plurals>
+    <plurals name="message_moved_toast">
+        <item quantity="other">%1$d mensaxes movidas a %2$s</item>
+        <item quantity="one">%1$d mensaxe movida a %2$s</item>
+    </plurals>
+    <plurals name="message_view_attachment_bytes">
+        <item quantity="other">%dB</item>
+        <item quantity="one">%dB</item>
+    </plurals>
+    <plurals name="message_view_attachment_kilobytes">
+        <item quantity="other">%d KB</item>
+        <item quantity="one">%d KB</item>
+    </plurals>
+    <plurals name="message_view_attachment_megabytes">
+        <item quantity="other">%d MB</item>
+        <item quantity="one">%d MB</item>
+    </plurals>
+    <plurals name="message_view_attachment_gigabytes">
+        <item quantity="other">%dGB</item>
+        <item quantity="one">%dGB</item>
+    </plurals>
+    <plurals name="message_view_attachment_bytes_float">
+        <item quantity="other">%.1fB</item>
+        <item quantity="one">%.1fB</item>
+    </plurals>
+    <plurals name="message_view_attachment_kilobytes_float">
+        <item quantity="other">%.1fKB</item>
+        <item quantity="one">%.1fKB</item>
+    </plurals>
+    <plurals name="message_view_attachment_megabytes_float">
+        <item quantity="other">%.1fMB</item>
+        <item quantity="one">%.1fMB</item>
+    </plurals>
+    <plurals name="message_view_attachment_gigabytes_float">
+        <item quantity="other">%.1fGB</item>
+        <item quantity="one">%.1fGB</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s resultados para %2$s</item>
+        <item quantity="one">%s result for \"%s\"</item>
+    </plurals>
+</resources>

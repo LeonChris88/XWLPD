@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_minutes_labels">
+        <item>Cap</item>
+        <item>"A l'hora"</item>
+        <item>5 min abans</item>
+        <item>15 minuts abans</item>
+        <item>1 hora abans</item>
+        <item>1 dia abans</item>
+        <item>2 dies abans</item>
+        <item>1 setmana abans</item>
+        <item>Personalitzar</item>
+    </string-array>
+    <string-array name="preferences_alert_type_labels">
+        <item>Avís</item>
+        <item>"Notificació de la barra d'estat"</item>
+        <item>Desactivat</item>
+    </string-array>
+    <string-array name="availability">
+        <item>Ocupat</item>
+        <item>Disponible</item>
+    </string-array>
+    <string-array name="visibility">
+        <item>Predeterminat</item>
+        <item>Particular</item>
+        <item>Públic</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>Primer</item>
+        <item>Segon</item>
+        <item>Tercer</item>
+        <item>quart</item>
+        <item>Darrer</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>(Cap resposta)</item>
+        <item>Sí</item>
+        <item>Potser</item>
+        <item>No</item>
+    </string-array>
+    <string-array name="response_labels2">
+        <item>Sí</item>
+        <item>Potser</item>
+        <item>No</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Només aquest esdeveniment</item>
+        <item>Tots els esdeveniments</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>Tots els esdeveniments</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Només aquesta vegada</item>
+        <item>Tots els esdeveniments de la sèrie</item>
+    </string-array>
+    <string-array name="preferences_default_view_labels">
+        <item>Mes</item>
+        <item>Setmana</item>
+        <item>Dia</item>
+        <item>Llistar</item>
+    </string-array>
+    <string-array name="preferences_day_view_labels">
+        <item>"Graella d'hores"</item>
+        <item>"Llista d'esdeveniments"</item>
+    </string-array>
+    <string-array name="preferences_first_day_of_week_labels">
+        <item>Dilluns</item>
+        <item>Diumenge</item>
+    </string-array>
+    <string-array name="preferences_font_size_labels">
+        <item>Minúscula</item>
+        <item>Petita</item>
+        <item>Mitjà</item>
+        <item>Gran</item>
+        <item>Molt gran</item>
+    </string-array>
+    <string-array name="on_off">
+        <item>Desactivat</item>
+        <item>Activat</item>
+    </string-array>
+    <string-array name="alarmtone">
+        <item>Sons</item>
+        <item>Anar als Meus fitxers</item>
+    </string-array>
+    <string-array name="repeat_labels">
+        <item>Durant 1 any</item>
+        <item>Durant 5 anys</item>
+        <item>Durant 10 anys</item>
+        <item>Durant 50 anys</item>
+    </string-array>
+    <string-array name="ordinary_prev">
+        <item>1a setmana</item>
+        <item>2a setmana</item>
+        <item>3a setmana</item>
+        <item>4a setmana</item>
+        <item>5a setmana</item>
+        <item>6a setmana</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>Midway Island</item>
+        <item>Hawaii</item>
+        <item>Alaska</item>
+        <item>Hora del Pacífic</item>
+        <item>Tijuana</item>
+        <item>Arizona</item>
+        <item>Chihuahua</item>
+        <item>Hora de la Muntanya</item>
+        <item>Amèrica Central</item>
+        <item>Hora central</item>
+        <item>Ciutat de Mèxic</item>
+        <item>Saskatchewan</item>
+        <item>Bogotà</item>
+        <item>Hora oriental</item>
+        <item>Veneçuela</item>
+        <item>"Hora de l'Atlàntic"</item>
+        <item>Manaus</item>
+        <item>Terranova</item>
+        <item>Santiago</item>
+        <item>Buenos Aires</item>
+        <item>Groenlàndia</item>
+        <item>Brasília</item>
+        <item>Montevideo</item>
+        <item>Atlàntic Mitjà</item>
+        <item>Açores</item>
+        <item>Illes de Cap Verd</item>
+        <item>Casablanca</item>
+        <item>Londres, Dublín</item>
+        <item>Amsterdam, Berlín</item>
+        <item>Belgrad</item>
+        <item>Brussel·les</item>
+        <item>Sarajevo</item>
+        <item>"Hora d'Àfrica Occidental"</item>
+        <item>Windhoek</item>
+        <item>Amman, Jordània</item>
+        <item>Atenes, Istanbul</item>
+        <item>Beirut, Líban</item>
+        <item>Caire</item>
+        <item>Hèlsinki</item>
+        <item>Jerusalem</item>
+        <item>Minsk</item>
+        <item>Harare</item>
+        <item>Bagdad</item>
+        <item>Moscou</item>
+        <item>Kuwait</item>
+        <item>Nairobi</item>
+        <item>Teheran</item>
+        <item>Bakú</item>
+        <item>Tbilisi</item>
+        <item>Erevan</item>
+        <item>Dubai</item>
+        <item>Kabul</item>
+        <item>Islamabad, Karachi</item>
+        <item>Uralsk</item>
+        <item>Ekaterinburg</item>
+        <item>Calcuta</item>
+        <item>Sri Lanka</item>
+        <item>Katmandú</item>
+        <item>Astana</item>
+        <item>Yangôn</item>
+        <item>Krasnoyarsk</item>
+        <item>Bangkok</item>
+        <item>Pequín</item>
+        <item>Hongkong</item>
+        <item>Irkutsk</item>
+        <item>Kuala Lumpur</item>
+        <item>Perth</item>
+        <item>Taipei</item>
+        <item>Seül</item>
+        <item>Tòquio, Osaka</item>
+        <item>Yakutsk</item>
+        <item>Darwin</item>
+        <item>Brisbane</item>
+        <item>Vladivostok</item>
+        <item>Guam</item>
+        <item>Adelaida</item>
+        <item>Hobart</item>
+        <item>Canberra, Sydney</item>
+        <item>Magadan</item>
+        <item>Illes Marshall</item>
+        <item>Fiji</item>
+        <item>Auckland</item>
+        <item>Tonga</item>
+    </string-array>
+    <string-array name="my_status_labels">
+        <item>Lliure</item>
+        <item>Provision</item>
+        <item>Ocupat</item>
+        <item>"Fora de l'oficina"</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>Sempre</item>
+        <item>Només en mode Silenci</item>
+        <item>Mai</item>
+    </string-array>
+</resources>

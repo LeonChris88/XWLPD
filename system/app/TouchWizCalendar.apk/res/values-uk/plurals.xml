@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nminutes">
+        <item quantity="other">%d хвилин</item>
+        <item quantity="one">1 хвилина</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="other">%d хв.</item>
+        <item quantity="one">1 хв.</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">%d годин</item>
+        <item quantity="one">1 година</item>
+    </plurals>
+    <plurals name="Ndays">
+        <item quantity="other">%d днів</item>
+        <item quantity="one">1 день</item>
+    </plurals>
+    <plurals name="Nweeks">
+        <item quantity="other">%d тижнів</item>
+        <item quantity="one">1 тиждень</item>
+    </plurals>
+</resources>

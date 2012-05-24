@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_minutes_labels">
+        <item>Ei mitään</item>
+        <item>Ajallaan</item>
+        <item>5 min ennen</item>
+        <item>15 min ennen</item>
+        <item>1 tuntia ennen</item>
+        <item>1 päivää ennen</item>
+        <item>2 päivää ennen</item>
+        <item>1 viikkoa ennen</item>
+        <item>Mukauta</item>
+    </string-array>
+    <string-array name="reminder_minutes_values">
+        <item>-1</item>
+        <item>0</item>
+        <item>5</item>
+        <item>15</item>
+        <item>60</item>
+        <item>1440</item>
+        <item>2880</item>
+        <item>10080</item>
+        <item>-2</item>
+    </string-array>
+    <array name="preferences_default_reminder_labels" />
+    <array name="preferences_default_reminder_values" />
+    <string-array name="preferences_alert_type_labels">
+        <item>Hälytys</item>
+        <item>Tilarivin ilmoitus</item>
+        <item>Pois</item>
+    </string-array>
+    <string-array name="preferences_alert_type_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="availability">
+        <item>Varattu</item>
+        <item>Käytettävissä</item>
+    </string-array>
+    <string-array name="visibility">
+        <item>Oletus</item>
+        <item>Yksityinen</item>
+        <item>Julkinen</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>1.</item>
+        <item>2.</item>
+        <item>3.</item>
+        <item>4.</item>
+        <item>viimeinen</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>(Ei vastausta)</item>
+        <item>Kyllä</item>
+        <item>Ehkä</item>
+        <item>Ei</item>
+    </string-array>
+    <string-array name="response_labels2">
+        <item>Kyllä</item>
+        <item>Ehkä</item>
+        <item>Ei</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Vain tämä tapahtuma</item>
+        <item>Kaikki tapahtumat</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>Kaikki tapahtumat</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Vain tämä kerta</item>
+        <item>Kaikki sarjan tapahtumat</item>
+    </string-array>
+    <array name="view_change_items" />
+    <array name="preferences_reminders_alert_type_labels" />
+    <array name="preferences_reminders_alert_type_values" />
+    <array name="preferences_reminders_default_reminder_labels" />
+    <array name="preferences_reminders_default_reminder_values" />
+    <string-array name="preferences_default_view_labels">
+        <item>Kuukausi</item>
+        <item>Viikko</item>
+        <item>Päivä</item>
+        <item>Luettelo</item>
+    </string-array>
+    <string-array name="preferences_default_view_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="preferences_day_view_labels">
+        <item>Aikaruudukko</item>
+        <item>Tapahtumaluettelo</item>
+    </string-array>
+    <string-array name="preferences_day_view_values">
+        <item>2</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="preferences_first_day_of_week_labels">
+        <item>Maanantai</item>
+        <item>Sunnuntai</item>
+    </string-array>
+    <string-array name="preferences_first_day_of_week_values">
+        <item>2</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="preferences_font_size_labels">
+        <item>Erittäin pieni</item>
+        <item>Pieni</item>
+        <item>Keskikokoinen</item>
+        <item>Iso</item>
+        <item>Todella iso</item>
+    </string-array>
+    <string-array name="on_off">
+        <item>Pois</item>
+        <item>Päällä</item>
+    </string-array>
+    <string-array name="alarmtone">
+        <item>Äänet</item>
+        <item>Siirry Omiin tiedostoihin</item>
+    </string-array>
+    <string-array name="repeat_labels">
+        <item>1 vuoden ajan</item>
+        <item>5 vuoden ajan</item>
+        <item>10 vuoden ajan</item>
+        <item>50 vuoden ajan</item>
+    </string-array>
+    <string-array name="ordinary_prev">
+        <item>Ensimmäinen viikko</item>
+        <item>Toinen viikko</item>
+        <item>Kolmas viikko</item>
+        <item>Neljäs viikko</item>
+        <item>viides viikko</item>
+        <item>kuudes viikko</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>Midwaysaaret</item>
+        <item>Havaiji</item>
+        <item>Alaska</item>
+        <item>Tyynenmeren aika</item>
+        <item>Tijuana</item>
+        <item>Arizona</item>
+        <item>Chihuahua</item>
+        <item>Kalliovuorten aika</item>
+        <item>Keski-Amerikka</item>
+        <item>Keskinen aika</item>
+        <item>Mexico City</item>
+        <item>Saskatchewan</item>
+        <item>Bogota</item>
+        <item>Itäinen aika</item>
+        <item>Venezuela</item>
+        <item>Atlantin aika</item>
+        <item>Manaus</item>
+        <item>Newfoundland</item>
+        <item>Santiago</item>
+        <item>Buenos Aires</item>
+        <item>Grönlanti</item>
+        <item>Brasilia</item>
+        <item>Montevideo</item>
+        <item>Keski-Atlantti</item>
+        <item>Azorit</item>
+        <item>Kap Verde</item>
+        <item>Casablanca</item>
+        <item>Lontoo, Dublin</item>
+        <item>Amsterdam, Berliini</item>
+        <item>Belgrad</item>
+        <item>Bryssel</item>
+        <item>Sarajevo</item>
+        <item>Läntisen Afrikan aika</item>
+        <item>Windhoek</item>
+        <item>Amman, Jordania</item>
+        <item>Ateena, Istanbul</item>
+        <item>Beirut, Libanon</item>
+        <item>Kairo</item>
+        <item>Helsinki</item>
+        <item>Jerusalem</item>
+        <item>Minsk</item>
+        <item>Harare</item>
+        <item>Bagdad</item>
+        <item>Moskova</item>
+        <item>Kuwait</item>
+        <item>Nairobi</item>
+        <item>Teheran</item>
+        <item>Baku</item>
+        <item>Tbilisi</item>
+        <item>Jerevan</item>
+        <item>Dubai</item>
+        <item>Kabul</item>
+        <item>Islamabad, Karachi</item>
+        <item>Ural’sk</item>
+        <item>Jekaterinburg</item>
+        <item>Kolkata</item>
+        <item>Sri Lanka</item>
+        <item>Kathmandu</item>
+        <item>Astana</item>
+        <item>Yangon</item>
+        <item>Krasnojarsk</item>
+        <item>Bangkok</item>
+        <item>Peking</item>
+        <item>Hongkong</item>
+        <item>Irkutsk</item>
+        <item>Kuala Lumpur</item>
+        <item>Perth</item>
+        <item>Taipei</item>
+        <item>Soul</item>
+        <item>Tokio, Osaka</item>
+        <item>Jakutsk</item>
+        <item>Darwin</item>
+        <item>Brisbane</item>
+        <item>Vladivostok</item>
+        <item>Guam</item>
+        <item>Adelaide</item>
+        <item>Hobart</item>
+        <item>Canberra, Sydney</item>
+        <item>Magadan</item>
+        <item>Marshallinsaaret</item>
+        <item>Fidzi</item>
+        <item>Auckland</item>
+        <item>Tonga</item>
+    </string-array>
+    <string-array name="my_status_labels">
+        <item>Vapaa</item>
+        <item>Alustava</item>
+        <item>Varattu</item>
+        <item>Poissa</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>Aina</item>
+        <item>Vain äänett. tilassa</item>
+        <item>Ei koskaan</item>
+    </string-array>
+</resources>

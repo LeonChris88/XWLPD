@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_minutes_labels">
+        <item>Batere ez</item>
+        <item>Garaiz</item>
+        <item>5 min lehenago</item>
+        <item>15 minutu lehenago</item>
+        <item>Ordu 1 lehenago</item>
+        <item>Egun 1 lehenago</item>
+        <item>2 egun lehenago</item>
+        <item>Aste 1 lehenago</item>
+        <item>Pertsonalizatu</item>
+    </string-array>
+    <string-array name="preferences_alert_type_labels">
+        <item>Alerta</item>
+        <item>Egoera barraren jakinarazpena</item>
+        <item>Desaktibatuta</item>
+    </string-array>
+    <string-array name="availability">
+        <item>Lanpetuta</item>
+        <item>Eskuragarri</item>
+    </string-array>
+    <string-array name="visibility">
+        <item>Lehenetsia</item>
+        <item>Pribatua</item>
+        <item>Publikoa</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>Lehena</item>
+        <item>Segundoa</item>
+        <item>Hirugarrena</item>
+        <item>laugarren</item>
+        <item>Azkena</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>(Erantzunik ez)</item>
+        <item>Bai</item>
+        <item>Baliteke</item>
+        <item>Ez</item>
+    </string-array>
+    <string-array name="response_labels2">
+        <item>Bai</item>
+        <item>Baliteke</item>
+        <item>Ez</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Gertakari hau soilik</item>
+        <item>Gertaera guztiak</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>Gertaera guztiak</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Kasu honetan soilik</item>
+        <item>Serieko gertaera guztiak</item>
+    </string-array>
+    <string-array name="preferences_default_view_labels">
+        <item>Hilabetea</item>
+        <item>Astea</item>
+        <item>Eguna</item>
+        <item>Zerrenda</item>
+    </string-array>
+    <string-array name="preferences_day_view_labels">
+        <item>Denbora sareta</item>
+        <item>Gertaeren zerrenda</item>
+    </string-array>
+    <string-array name="preferences_first_day_of_week_labels">
+        <item>Astelehena</item>
+        <item>Igandea</item>
+    </string-array>
+    <string-array name="preferences_font_size_labels">
+        <item>Oso txikia</item>
+        <item>Txikia</item>
+        <item>Ertaina</item>
+        <item>Handia</item>
+        <item>Oso handia</item>
+    </string-array>
+    <string-array name="on_off">
+        <item>Desaktibatuta</item>
+        <item>Aktibatuta</item>
+    </string-array>
+    <string-array name="alarmtone">
+        <item>Soinuak</item>
+        <item>Joan Nire fitxategietara</item>
+    </string-array>
+    <string-array name="repeat_labels">
+        <item>Urte 1ez</item>
+        <item>5 urtez</item>
+        <item>10 urtez</item>
+        <item>50 urtez</item>
+    </string-array>
+    <string-array name="ordinary_prev">
+        <item>1. astea</item>
+        <item>2. astea</item>
+        <item>3. astea</item>
+        <item>4. astea</item>
+        <item>5. astea</item>
+        <item>6. astea</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>Midway uharteak</item>
+        <item>Hawaii</item>
+        <item>Alaska</item>
+        <item>Pazifikoko ordua</item>
+        <item>Tijuana</item>
+        <item>Arizona</item>
+        <item>Chihuahua</item>
+        <item>Mendiko ordua</item>
+        <item>Erdialdeko Amerika</item>
+        <item>Ordu zentrala</item>
+        <item>Mexico Hiria</item>
+        <item>Saskatchewan</item>
+        <item>Bogota</item>
+        <item>Ekialdeko ordua</item>
+        <item>Venezuela</item>
+        <item>Atlantikoko ordua</item>
+        <item>Manaus</item>
+        <item>Newfoundland</item>
+        <item>Santiago</item>
+        <item>Buenos Aires</item>
+        <item>Groenlandia</item>
+        <item>Brasilia</item>
+        <item>Montevideo</item>
+        <item>Atlantiko erdia</item>
+        <item>Azores</item>
+        <item>Cabo Verde uharteak</item>
+        <item>Casablanca</item>
+        <item>Londres, Dublin</item>
+        <item>Amsterdam, Berlin</item>
+        <item>Belgrad</item>
+        <item>Brusela</item>
+        <item>Sarajevo</item>
+        <item>Afrika mendebaldeko ordua</item>
+        <item>Windhoek</item>
+        <item>Amman, Jordania</item>
+        <item>Atenas, Istanbul</item>
+        <item>Beirut, Libano</item>
+        <item>Kairo</item>
+        <item>Helsinki</item>
+        <item>Jerusalem</item>
+        <item>Minsk</item>
+        <item>Harare</item>
+        <item>Bagdad</item>
+        <item>Mosku</item>
+        <item>Kuwait</item>
+        <item>Nairobi</item>
+        <item>Teheran</item>
+        <item>Baku</item>
+        <item>Tbilisi</item>
+        <item>Yerevan</item>
+        <item>Dubai</item>
+        <item>Kabul</item>
+        <item>Islamabad, Karatxi</item>
+        <item>Oral</item>
+        <item>Yekaterinburg</item>
+        <item>Kolkata</item>
+        <item>Sri Lanka</item>
+        <item>Kathmandu</item>
+        <item>Astana</item>
+        <item>Yangon</item>
+        <item>Krasnoyarsk</item>
+        <item>Bangkok</item>
+        <item>Pekin</item>
+        <item>Hongkong</item>
+        <item>Irkutsk</item>
+        <item>Kuala Lumpur</item>
+        <item>Perth</item>
+        <item>Taipei</item>
+        <item>Seul</item>
+        <item>Tokio, Osaka</item>
+        <item>Yakutsk</item>
+        <item>Darwin</item>
+        <item>Brisbane</item>
+        <item>Vladivostok</item>
+        <item>Guam</item>
+        <item>Adelaida</item>
+        <item>Hobart</item>
+        <item>Canberra, Sydney</item>
+        <item>Magadan</item>
+        <item>Marshall Uharteak</item>
+        <item>Fiji</item>
+        <item>Auckland</item>
+        <item>Tonga</item>
+    </string-array>
+    <string-array name="my_status_labels">
+        <item>Doan</item>
+        <item>Behin behinekoa</item>
+        <item>Lanpetuta</item>
+        <item>Bulegotik kanpo</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>Beti</item>
+        <item>Modu isilean soilik</item>
+        <item>Inoiz ez</item>
+    </string-array>
+</resources>

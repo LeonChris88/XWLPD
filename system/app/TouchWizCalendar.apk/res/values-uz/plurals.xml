@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nminutes">
+        <item quantity="other">%d daqiqa</item>
+        <item quantity="one">1 daqiqa</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="other">%d daqiqa</item>
+        <item quantity="one">1 daq.</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">%d soat</item>
+        <item quantity="one">1 soat</item>
+    </plurals>
+    <plurals name="Ndays">
+        <item quantity="other">%d kun</item>
+        <item quantity="one">1 kun</item>
+    </plurals>
+    <plurals name="Nweeks">
+        <item quantity="other">%d hafta</item>
+        <item quantity="one">1 hafta</item>
+    </plurals>
+</resources>

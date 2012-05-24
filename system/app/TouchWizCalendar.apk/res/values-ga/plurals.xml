@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nminutes">
+        <item quantity="other">%d nóiméad</item>
+        <item quantity="one">1 nóiméad</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="other">%d nóim</item>
+        <item quantity="one">1 nóim</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">%d uair an chloig</item>
+        <item quantity="one">1 uair an chloig</item>
+    </plurals>
+    <plurals name="Ndays">
+        <item quantity="other">%d lá</item>
+        <item quantity="one">1 lá</item>
+    </plurals>
+    <plurals name="Nweeks">
+        <item quantity="other">%d seachtain</item>
+        <item quantity="one">1 sheachtain</item>
+    </plurals>
+</resources>

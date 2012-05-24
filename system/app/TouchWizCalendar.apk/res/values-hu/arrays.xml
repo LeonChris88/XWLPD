@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_minutes_labels">
+        <item>Nincs</item>
+        <item>Időpontban</item>
+        <item>5 perccel előtte</item>
+        <item>15 perccel előtte</item>
+        <item>1 órával előtte</item>
+        <item>1 nappal előtte</item>
+        <item>2 nappal előtte</item>
+        <item>1 héttel előtte</item>
+        <item>Testreszabás</item>
+    </string-array>
+    <string-array name="reminder_minutes_values">
+        <item>-1</item>
+        <item>0</item>
+        <item>5</item>
+        <item>15</item>
+        <item>60</item>
+        <item>1440</item>
+        <item>2880</item>
+        <item>10080</item>
+        <item>-2</item>
+    </string-array>
+    <array name="preferences_default_reminder_labels" />
+    <array name="preferences_default_reminder_values" />
+    <string-array name="preferences_alert_type_labels">
+        <item>Jelzés</item>
+        <item>Állapotsor értesítés</item>
+        <item>Ki</item>
+    </string-array>
+    <string-array name="preferences_alert_type_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="availability">
+        <item>Ha foglalt</item>
+        <item>Elérhető</item>
+    </string-array>
+    <string-array name="visibility">
+        <item>Alapértelmezett</item>
+        <item>Személyes</item>
+        <item>Nyilvános</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>Első</item>
+        <item>Másodperc</item>
+        <item>harmadik</item>
+        <item>negyedik</item>
+        <item>Utolsó</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>(Nincs válasz)</item>
+        <item>Igen</item>
+        <item>Talán</item>
+        <item>Nem</item>
+    </string-array>
+    <string-array name="response_labels2">
+        <item>Igen</item>
+        <item>Talán</item>
+        <item>Nem</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Csak ez az egy esemény</item>
+        <item>Összes esemény</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>Összes esemény</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Ez az egy alkalom</item>
+        <item>A sorozat összes eseménye</item>
+    </string-array>
+    <array name="view_change_items" />
+    <array name="preferences_reminders_alert_type_labels" />
+    <array name="preferences_reminders_alert_type_values" />
+    <array name="preferences_reminders_default_reminder_labels" />
+    <array name="preferences_reminders_default_reminder_values" />
+    <string-array name="preferences_default_view_labels">
+        <item>Hónap</item>
+        <item>Hét</item>
+        <item>Nap</item>
+        <item>Lista</item>
+    </string-array>
+    <string-array name="preferences_default_view_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="preferences_day_view_labels">
+        <item>Idődiagram</item>
+        <item>Eseménylista</item>
+    </string-array>
+    <string-array name="preferences_day_view_values">
+        <item>2</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="preferences_first_day_of_week_labels">
+        <item>Hétfő</item>
+        <item>Vasárnap</item>
+    </string-array>
+    <string-array name="preferences_first_day_of_week_values">
+        <item>2</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="preferences_font_size_labels">
+        <item>Extrakicsi</item>
+        <item>Kicsi</item>
+        <item>Közepes</item>
+        <item>Nagy</item>
+        <item>Extranagy</item>
+    </string-array>
+    <string-array name="on_off">
+        <item>Ki</item>
+        <item>Be</item>
+    </string-array>
+    <string-array name="alarmtone">
+        <item>Hangok</item>
+        <item>A Saját fájlok megnyitása</item>
+    </string-array>
+    <string-array name="repeat_labels">
+        <item>1 évig</item>
+        <item>5 évig</item>
+        <item>10 évig</item>
+        <item>50 évig</item>
+    </string-array>
+    <string-array name="ordinary_prev">
+        <item>1. hét</item>
+        <item>2. hét</item>
+        <item>3. hét</item>
+        <item>4. hét</item>
+        <item>5. hét</item>
+        <item>6. hét</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>Midway szigetek</item>
+        <item>Hawaii</item>
+        <item>Alaszka</item>
+        <item>Csendes-óceáni idő</item>
+        <item>Tijuana</item>
+        <item>Arizona</item>
+        <item>Chihuahua</item>
+        <item>Hegyvidéki idő</item>
+        <item>Közép-Amerika</item>
+        <item>Közép idő</item>
+        <item>Mexikóváros</item>
+        <item>Saskatchewan</item>
+        <item>Bogotá</item>
+        <item>Keleti idő</item>
+        <item>Venezuela</item>
+        <item>Atlanti idő</item>
+        <item>Manaus</item>
+        <item>Új-Fundland</item>
+        <item>Santiago</item>
+        <item>Buenos Aires</item>
+        <item>Grönland</item>
+        <item>Brasilia</item>
+        <item>Montevideo</item>
+        <item>Közép-Atlanti térség</item>
+        <item>Azori-szigetek</item>
+        <item>Zöld-foki-szigetek</item>
+        <item>Casablanca</item>
+        <item>London, Dublin</item>
+        <item>Amszterdam, Berlin</item>
+        <item>Belgrád</item>
+        <item>Brüsszel</item>
+        <item>Szarajevó</item>
+        <item>Nyugat-afrikai idő</item>
+        <item>Windhoek</item>
+        <item>Ammán, Jordánia</item>
+        <item>Athén, Isztambul</item>
+        <item>Bejrút, Libanon</item>
+        <item>Kairó</item>
+        <item>Helsinki</item>
+        <item>Jeruzsálem</item>
+        <item>Minszk</item>
+        <item>Harare</item>
+        <item>Bagdad</item>
+        <item>Moszkva</item>
+        <item>Kuvait</item>
+        <item>Nairobi</item>
+        <item>Teherán</item>
+        <item>Baku</item>
+        <item>Tbiliszi</item>
+        <item>Jereván</item>
+        <item>Dubai</item>
+        <item>Kabul</item>
+        <item>Iszlámábád, Karacsi</item>
+        <item>Urál</item>
+        <item>Jekatyerinburg</item>
+        <item>Kalkutta</item>
+        <item>Srí Lanka</item>
+        <item>Katmandu</item>
+        <item>Astana</item>
+        <item>Rangun</item>
+        <item>Krasznojarszk</item>
+        <item>Bangkok</item>
+        <item>Peking</item>
+        <item>Hongkong</item>
+        <item>Irkutszk</item>
+        <item>Kuala Lumpur</item>
+        <item>Perth</item>
+        <item>Tajpej</item>
+        <item>Szöul</item>
+        <item>Tokió, Oszaka</item>
+        <item>Jakutszk</item>
+        <item>Darwin</item>
+        <item>Brisbane</item>
+        <item>Vlagyivosztok</item>
+        <item>Guam</item>
+        <item>Adelaide</item>
+        <item>Hobart</item>
+        <item>Canberra, Sydney</item>
+        <item>Magadan</item>
+        <item>Marshall-szigetek</item>
+        <item>Fidzsi</item>
+        <item>Auckland</item>
+        <item>Tonga</item>
+    </string-array>
+    <string-array name="my_status_labels">
+        <item>Szabad</item>
+        <item>Feltételes</item>
+        <item>Ha foglalt</item>
+        <item>Házon kívül</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>Mindig</item>
+        <item>Csak Csendes üzemmódban</item>
+        <item>Soha</item>
+    </string-array>
+</resources>

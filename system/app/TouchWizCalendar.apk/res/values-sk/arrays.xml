@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_minutes_labels">
+        <item>Žiadny</item>
+        <item>V čase</item>
+        <item>5 minút predtým</item>
+        <item>15 minút predtým</item>
+        <item>1 hodinu predtým</item>
+        <item>1 deň predtým</item>
+        <item>2 dni predtým</item>
+        <item>1 týždeň predtým</item>
+        <item>Prispôsobiť</item>
+    </string-array>
+    <string-array name="reminder_minutes_values">
+        <item>-1</item>
+        <item>0</item>
+        <item>5</item>
+        <item>15</item>
+        <item>60</item>
+        <item>1440</item>
+        <item>2880</item>
+        <item>10080</item>
+        <item>-2</item>
+    </string-array>
+    <array name="preferences_default_reminder_labels" />
+    <array name="preferences_default_reminder_values" />
+    <string-array name="preferences_alert_type_labels">
+        <item>Upozornenie</item>
+        <item>Oznámenie v stavovom riadku</item>
+        <item>Vyp.</item>
+    </string-array>
+    <string-array name="preferences_alert_type_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="availability">
+        <item>Obsadený</item>
+        <item>K dispozícii</item>
+    </string-array>
+    <string-array name="visibility">
+        <item>Predvolený</item>
+        <item>Súkromné</item>
+        <item>Verejný</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>Prvá</item>
+        <item>Sekunda</item>
+        <item>3.</item>
+        <item>4.</item>
+        <item>Posl.</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>(bez odpovede)</item>
+        <item>Áno</item>
+        <item>Možno</item>
+        <item>Nie</item>
+    </string-array>
+    <string-array name="response_labels2">
+        <item>Áno</item>
+        <item>Možno</item>
+        <item>Nie</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Iba táto udalosť</item>
+        <item>Všetky udalosti</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>Všetky udalosti</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Iba táto inštancia</item>
+        <item>Všetky udalosti za sebou</item>
+    </string-array>
+    <array name="view_change_items" />
+    <array name="preferences_reminders_alert_type_labels" />
+    <array name="preferences_reminders_alert_type_values" />
+    <array name="preferences_reminders_default_reminder_labels" />
+    <array name="preferences_reminders_default_reminder_values" />
+    <string-array name="preferences_default_view_labels">
+        <item>Mesiac</item>
+        <item>Týždeň</item>
+        <item>Deň</item>
+        <item>Zoznam</item>
+    </string-array>
+    <string-array name="preferences_default_view_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="preferences_day_view_labels">
+        <item>Časová mriežka</item>
+        <item>Zoznam udalostí</item>
+    </string-array>
+    <string-array name="preferences_day_view_values">
+        <item>2</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="preferences_first_day_of_week_labels">
+        <item>Pondelok</item>
+        <item>Nedeľa</item>
+    </string-array>
+    <string-array name="preferences_first_day_of_week_values">
+        <item>2</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="preferences_font_size_labels">
+        <item>Veľmi malé</item>
+        <item>Malé</item>
+        <item>Stredné</item>
+        <item>Veľké</item>
+        <item>Extra veľké</item>
+    </string-array>
+    <string-array name="on_off">
+        <item>Vyp.</item>
+        <item>Zap.</item>
+    </string-array>
+    <string-array name="alarmtone">
+        <item>Zvuky</item>
+        <item>Prejsť do priečinka Moje súbory</item>
+    </string-array>
+    <string-array name="repeat_labels">
+        <item>Po dobu 1 roka</item>
+        <item>Po dobu 5 rokov</item>
+        <item>Po dobu 10 rokov</item>
+        <item>Po dobu 50 rokov</item>
+    </string-array>
+    <string-array name="ordinary_prev">
+        <item>1. týždeň</item>
+        <item>2. týždeň</item>
+        <item>3. týždeň</item>
+        <item>4. týždeň</item>
+        <item>5. týždeň</item>
+        <item>6. týždeň</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>Ostrov Midway</item>
+        <item>Havajské ostrovy</item>
+        <item>Aljaška</item>
+        <item>Tichomorský čas</item>
+        <item>Tijuana</item>
+        <item>Arizona</item>
+        <item>Chihuahua</item>
+        <item>Horský čas</item>
+        <item>Stredná Amerika</item>
+        <item>Centrálny čas</item>
+        <item>Mexico City</item>
+        <item>Saskatchewan</item>
+        <item>Bogota</item>
+        <item>Východný čas</item>
+        <item>Venezuela</item>
+        <item>Atlantický čas</item>
+        <item>Manaus</item>
+        <item>Newfoundland</item>
+        <item>Santiago</item>
+        <item>Buenos Aires</item>
+        <item>Grónsko</item>
+        <item>Brazília</item>
+        <item>Montevideo</item>
+        <item>Stredný Atlantik</item>
+        <item>Azory</item>
+        <item>Kapverdské ostrovy</item>
+        <item>Casablanca</item>
+        <item>Londýn, Dublin</item>
+        <item>Amsterdam, Berlín</item>
+        <item>Belehrad</item>
+        <item>Brusel</item>
+        <item>Sarajevo</item>
+        <item>Západoafrický čas</item>
+        <item>Windhoek</item>
+        <item>Ammán, Jordánsko</item>
+        <item>Atény, Istanbul</item>
+        <item>Bejrút, Libanon</item>
+        <item>Káhira</item>
+        <item>Helsinki</item>
+        <item>Jeruzalem</item>
+        <item>Minsk</item>
+        <item>Harare</item>
+        <item>Bagdad</item>
+        <item>Moskva</item>
+        <item>Kuvajt</item>
+        <item>Nairobi</item>
+        <item>Teherán</item>
+        <item>Baku</item>
+        <item>Tbilisi</item>
+        <item>Jerevan</item>
+        <item>Dubaj</item>
+        <item>Kábul</item>
+        <item>Islamabad, Karáči</item>
+        <item>Uraľsk</item>
+        <item>Jekaterinburg</item>
+        <item>Kalkata</item>
+        <item>Srí Lanka</item>
+        <item>Káthmandu</item>
+        <item>Astana</item>
+        <item>Jangon</item>
+        <item>Krasnojarsk</item>
+        <item>Bangkok</item>
+        <item>Peking</item>
+        <item>Hongkong</item>
+        <item>Irkutsk</item>
+        <item>Kuala Lumpur</item>
+        <item>Perth</item>
+        <item>Tchaj-pej</item>
+        <item>Soul</item>
+        <item>Tokio, Osaka</item>
+        <item>Jakutsk</item>
+        <item>Darwin</item>
+        <item>Brisbane</item>
+        <item>Vladivostok</item>
+        <item>Guam</item>
+        <item>Adelaide</item>
+        <item>Hobart</item>
+        <item>Canberra, Sydney</item>
+        <item>Magadan</item>
+        <item>Marshallove ostrovy</item>
+        <item>Fidži</item>
+        <item>Auckland</item>
+        <item>Tonga</item>
+    </string-array>
+    <string-array name="my_status_labels">
+        <item>Voľné</item>
+        <item>Nezáväzne</item>
+        <item>Obsadený</item>
+        <item>Mimo kancelárie</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>Vždy</item>
+        <item>Iba v tichom režime</item>
+        <item>Nikdy</item>
+    </string-array>
+</resources>

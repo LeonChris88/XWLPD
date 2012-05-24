@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_minutes_labels">
+        <item>Ingen</item>
+        <item>På tiden</item>
+        <item>5 min før</item>
+        <item>15 min før</item>
+        <item>1 time før</item>
+        <item>1 dag før</item>
+        <item>2 dager før</item>
+        <item>1 uke før</item>
+        <item>Tilpass</item>
+    </string-array>
+    <string-array name="reminder_minutes_values">
+        <item>-1</item>
+        <item>0</item>
+        <item>5</item>
+        <item>15</item>
+        <item>60</item>
+        <item>1440</item>
+        <item>2880</item>
+        <item>10080</item>
+        <item>-2</item>
+    </string-array>
+    <array name="preferences_default_reminder_labels" />
+    <array name="preferences_default_reminder_values" />
+    <string-array name="preferences_alert_type_labels">
+        <item>Varsling</item>
+        <item>Statuslinjevarsel</item>
+        <item>Av</item>
+    </string-array>
+    <string-array name="preferences_alert_type_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="availability">
+        <item>Opptatt</item>
+        <item>Tilgjengelig</item>
+    </string-array>
+    <string-array name="visibility">
+        <item>Standard</item>
+        <item>Privat</item>
+        <item>Offentl.</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>Først</item>
+        <item>Sekund</item>
+        <item>tredje</item>
+        <item>fjerde</item>
+        <item>Sist</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>(Ingen respons)</item>
+        <item>Ja</item>
+        <item>Kanskje</item>
+        <item>Nei</item>
+    </string-array>
+    <string-array name="response_labels2">
+        <item>Ja</item>
+        <item>Kanskje</item>
+        <item>Nei</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Bare denne hendelsen</item>
+        <item>Alle hendelser</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>Alle hendelser</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Bare dette tilfellet</item>
+        <item>Alle hendelser i serien</item>
+    </string-array>
+    <array name="view_change_items" />
+    <array name="preferences_reminders_alert_type_labels" />
+    <array name="preferences_reminders_alert_type_values" />
+    <array name="preferences_reminders_default_reminder_labels" />
+    <array name="preferences_reminders_default_reminder_values" />
+    <string-array name="preferences_default_view_labels">
+        <item>Måned</item>
+        <item>Uke</item>
+        <item>Dag</item>
+        <item>Liste</item>
+    </string-array>
+    <string-array name="preferences_default_view_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="preferences_day_view_labels">
+        <item>Tidsruter</item>
+        <item>Hendelsesliste</item>
+    </string-array>
+    <string-array name="preferences_day_view_values">
+        <item>2</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="preferences_first_day_of_week_labels">
+        <item>Mandag</item>
+        <item>Søndag</item>
+    </string-array>
+    <string-array name="preferences_first_day_of_week_values">
+        <item>2</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="preferences_font_size_labels">
+        <item>Ekstra liten</item>
+        <item>Liten</item>
+        <item>Medium</item>
+        <item>Stor</item>
+        <item>Ekstra stor</item>
+    </string-array>
+    <string-array name="on_off">
+        <item>Av</item>
+        <item>På</item>
+    </string-array>
+    <string-array name="alarmtone">
+        <item>Lyder</item>
+        <item>Gå til Mine filer</item>
+    </string-array>
+    <string-array name="repeat_labels">
+        <item>For 1 år</item>
+        <item>I 5 år</item>
+        <item>I 10 år</item>
+        <item>I 50 år</item>
+    </string-array>
+    <string-array name="ordinary_prev">
+        <item>Første uke</item>
+        <item>Andre uke</item>
+        <item>Tredje uke</item>
+        <item>Fjerde uke</item>
+        <item>femte uke</item>
+        <item>sjette uke</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>Midwayøyene</item>
+        <item>Hawaii</item>
+        <item>Alaska</item>
+        <item>Pacific Time</item>
+        <item>Tijuana</item>
+        <item>Arizona</item>
+        <item>Chihuahua</item>
+        <item>Mountain Time</item>
+        <item>Sentral-Amerika</item>
+        <item>Central Time</item>
+        <item>Mexico City</item>
+        <item>Saskatchewan</item>
+        <item>Bogota</item>
+        <item>Eastern Time</item>
+        <item>Venezuela</item>
+        <item>Atlantic Time</item>
+        <item>Manaus</item>
+        <item>Newfoundland</item>
+        <item>Santiago</item>
+        <item>Buenos Aires</item>
+        <item>Grønland</item>
+        <item>Brasilia</item>
+        <item>Montevideo</item>
+        <item>Mid-Atlantic</item>
+        <item>Asorene</item>
+        <item>Kapp Verdeøyene</item>
+        <item>Casablanca</item>
+        <item>London, Dublin</item>
+        <item>Amsterdam, Berlin</item>
+        <item>Beograd</item>
+        <item>Brussel</item>
+        <item>Sarajevo</item>
+        <item>W. Africa Time</item>
+        <item>Windhoek</item>
+        <item>Amman, Jordan</item>
+        <item>Aten, Istanbul</item>
+        <item>Beirut, Libanon</item>
+        <item>Kairo</item>
+        <item>Helsinki</item>
+        <item>Jerusalem</item>
+        <item>Minsk</item>
+        <item>Harare</item>
+        <item>Bagdad</item>
+        <item>Moskva</item>
+        <item>Kuwait</item>
+        <item>Nairobi</item>
+        <item>Teheran</item>
+        <item>Baku</item>
+        <item>Tbilisi</item>
+        <item>Jerevan</item>
+        <item>Dubai</item>
+        <item>Kabul</item>
+        <item>Islamabad, Karachi</item>
+        <item>Uralsk</item>
+        <item>Jekaterinburg</item>
+        <item>Kolkata</item>
+        <item>Sri Lanka</item>
+        <item>Katmandu</item>
+        <item>Astana</item>
+        <item>Yangon</item>
+        <item>Krasnojarsk</item>
+        <item>Bangkok</item>
+        <item>Beijing</item>
+        <item>Hong Kong</item>
+        <item>Irkutsk</item>
+        <item>Kuala Lumpur</item>
+        <item>Perth</item>
+        <item>Taipei</item>
+        <item>Seoul</item>
+        <item>Tokyo, Osaka</item>
+        <item>Jakutsk</item>
+        <item>Darwin</item>
+        <item>Brisbane</item>
+        <item>Vladivostok</item>
+        <item>Guam</item>
+        <item>Adelaide</item>
+        <item>Hobart</item>
+        <item>Canberra, Sydney</item>
+        <item>Magadan</item>
+        <item>Marshalløyene</item>
+        <item>Fiji</item>
+        <item>Auckland</item>
+        <item>Tonga</item>
+    </string-array>
+    <string-array name="my_status_labels">
+        <item>Ledig</item>
+        <item>Foreløpig</item>
+        <item>Opptatt</item>
+        <item>Ikke til stede</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>Alltid</item>
+        <item>Bare i stille modus</item>
+        <item>Aldri</item>
+    </string-array>
+</resources>

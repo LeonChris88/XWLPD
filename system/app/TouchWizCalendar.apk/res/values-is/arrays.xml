@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_minutes_labels">
+        <item>Ekkert</item>
+        <item>Á réttum tíma</item>
+        <item>5 mín. fyrir</item>
+        <item>15 mín. fyrir</item>
+        <item>1 klukkustund áður</item>
+        <item>1 degi áður</item>
+        <item>2 dögum áður</item>
+        <item>1 viku áður</item>
+        <item>Sérsníða</item>
+    </string-array>
+    <string-array name="reminder_minutes_values">
+        <item>-1</item>
+        <item>0</item>
+        <item>5</item>
+        <item>15</item>
+        <item>60</item>
+        <item>1440</item>
+        <item>2880</item>
+        <item>10080</item>
+        <item>-2</item>
+    </string-array>
+    <array name="preferences_default_reminder_labels" />
+    <array name="preferences_default_reminder_values" />
+    <string-array name="preferences_alert_type_labels">
+        <item>Áminning</item>
+        <item>Tilkynning stöðustiku</item>
+        <item>Slökkt</item>
+    </string-array>
+    <string-array name="preferences_alert_type_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="availability">
+        <item>Á tali</item>
+        <item>Laust</item>
+    </string-array>
+    <string-array name="visibility">
+        <item>Sjálfgefið</item>
+        <item>Einkamál</item>
+        <item>Opin</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>Fyrsta</item>
+        <item>Sekúnda</item>
+        <item>þriðja</item>
+        <item>fjórða</item>
+        <item>Síðast</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>(Ekkert svar)</item>
+        <item>Já</item>
+        <item>Kannski</item>
+        <item>Nei</item>
+    </string-array>
+    <string-array name="response_labels2">
+        <item>Já</item>
+        <item>Kannski</item>
+        <item>Nei</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Aðeins þessi viðburður</item>
+        <item>Allir viðburðir</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>Allir viðburðir</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Aðeins í þetta skipti</item>
+        <item>Allir viðburðir í röðinni</item>
+    </string-array>
+    <array name="view_change_items" />
+    <array name="preferences_reminders_alert_type_labels" />
+    <array name="preferences_reminders_alert_type_values" />
+    <array name="preferences_reminders_default_reminder_labels" />
+    <array name="preferences_reminders_default_reminder_values" />
+    <string-array name="preferences_default_view_labels">
+        <item>Mánuður</item>
+        <item>Vika</item>
+        <item>Dagur</item>
+        <item>Listi</item>
+    </string-array>
+    <string-array name="preferences_default_view_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="preferences_day_view_labels">
+        <item>Tímatafla</item>
+        <item>Atvikalisti</item>
+    </string-array>
+    <string-array name="preferences_day_view_values">
+        <item>2</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="preferences_first_day_of_week_labels">
+        <item>Mánudagur</item>
+        <item>Sunnudagur</item>
+    </string-array>
+    <string-array name="preferences_first_day_of_week_values">
+        <item>2</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="preferences_font_size_labels">
+        <item>Mjög smá</item>
+        <item>Lítið</item>
+        <item>Miðlungs</item>
+        <item>Stórt</item>
+        <item>Sérlega stórt</item>
+    </string-array>
+    <string-array name="on_off">
+        <item>Slökkt</item>
+        <item>Kveikt</item>
+    </string-array>
+    <string-array name="alarmtone">
+        <item>Hljóð</item>
+        <item>Fara í skrár notanda</item>
+    </string-array>
+    <string-array name="repeat_labels">
+        <item>Í eitt ár</item>
+        <item>Í 5 ár</item>
+        <item>Í 10 ár</item>
+        <item>Í 50 ár</item>
+    </string-array>
+    <string-array name="ordinary_prev">
+        <item>1. vika</item>
+        <item>2. vika</item>
+        <item>3. vika</item>
+        <item>4. vika</item>
+        <item>5. vika</item>
+        <item>6. vika</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>Midwayeyjar</item>
+        <item>Havaí</item>
+        <item>Alaska</item>
+        <item>Kyrrahafstími</item>
+        <item>Tíjúana</item>
+        <item>Arizona</item>
+        <item>Chihuahua</item>
+        <item>Fjallatími</item>
+        <item>Mið-Ameríka</item>
+        <item>Miðtími</item>
+        <item>Mexíkóborg</item>
+        <item>Saskatchewan</item>
+        <item>Bógóta</item>
+        <item>Austurtími</item>
+        <item>Venesúela</item>
+        <item>Atlantshafstími</item>
+        <item>Manaus</item>
+        <item>Nýfundnaland</item>
+        <item>Santíagó</item>
+        <item>Búenos Aíres</item>
+        <item>Grænland</item>
+        <item>Brasilía</item>
+        <item>Montevideo</item>
+        <item>Mið-Atlantshaf</item>
+        <item>Asóreyjar</item>
+        <item>Grænhöfðaeyjar</item>
+        <item>Casablanca</item>
+        <item>London, Dublin</item>
+        <item>Amsterdam, Berlín</item>
+        <item>Belgrad</item>
+        <item>Brussel</item>
+        <item>Sarajevó</item>
+        <item>Vestur-Afríkutími</item>
+        <item>Windhoek</item>
+        <item>Amman, Jórdanía</item>
+        <item>Aþena, Istanbúl</item>
+        <item>Beirút, Líbanon</item>
+        <item>Kaíró</item>
+        <item>Helsinki</item>
+        <item>Jerúsalem</item>
+        <item>Minsk</item>
+        <item>Harare</item>
+        <item>Bagdad</item>
+        <item>Moskva</item>
+        <item>Kúveit</item>
+        <item>Naíróbí</item>
+        <item>Teheran</item>
+        <item>Bakú</item>
+        <item>Tíblisi</item>
+        <item>Jerevan</item>
+        <item>Dubai</item>
+        <item>Kabúl</item>
+        <item>Íslamabad, Karachi</item>
+        <item>Uralsk</item>
+        <item>Yekaterinburg</item>
+        <item>Kolkata</item>
+        <item>Sri Lanka</item>
+        <item>Katmandú</item>
+        <item>Astana</item>
+        <item>Yangon</item>
+        <item>Krasnoyarsk</item>
+        <item>Bangkok</item>
+        <item>Pekíng</item>
+        <item>Hong Kong</item>
+        <item>Irkutsk</item>
+        <item>Kúala Lúmpúr</item>
+        <item>Perth</item>
+        <item>Taípei</item>
+        <item>Seúl</item>
+        <item>Tókýó, Osaka</item>
+        <item>Jakutsk</item>
+        <item>Darwin</item>
+        <item>Brisbane</item>
+        <item>Vladivostok</item>
+        <item>Gvam</item>
+        <item>Adelaide</item>
+        <item>Hobart</item>
+        <item>Canberra, Sydney</item>
+        <item>Magadan</item>
+        <item>Marshalleyjar</item>
+        <item>Fídjieyjar</item>
+        <item>Auckland</item>
+        <item>Tonga</item>
+    </string-array>
+    <string-array name="my_status_labels">
+        <item>Laust</item>
+        <item>Með fyrirvara</item>
+        <item>Á tali</item>
+        <item>Fjarverandi</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>Alltaf</item>
+        <item>Aðeins í hljóðlausri stillingu</item>
+        <item>Aldrei</item>
+    </string-array>
+</resources>

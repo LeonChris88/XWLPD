@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="listCameraEffectMenuArray">
+        <item>Cap</item>
+        <item>Gris</item>
+        <item>Sèpia</item>
+        <item>Verd</item>
+        <item>Aigua</item>
+        <item>Negatiu</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>Esborrar</item>
+    </string-array>
+    <string-array name="pref_roaming_options_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="default_setup_choices">
+        <item>Automàtica</item>
+        <item>Manual</item>
+    </string-array>
+    <string-array name="default_setup_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="clir_display_values">
+        <item>Predeterminat de la xarxa</item>
+        <item>Ocultar número</item>
+        <item>Mostrar número</item>
+    </string-array>
+    <string-array name="clir_values">
+        <item>Predeterminat</item>
+        <item>Ocultar</item>
+        <item>Mostrar</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>Global</item>
+        <item>Només EVDO</item>
+        <item>CDMA w/o EVDO</item>
+        <item>CDMA/EVDO automàtic</item>
+        <item>GSM/WCDMA automàtic</item>
+        <item>Només WCDMA</item>
+        <item>Només GSM</item>
+        <item>GSM/WCDMA preferit</item>
+    </string-array>
+    <string-array name="preferred_network_mode_values">
+        <item>7</item>
+        <item>6</item>
+        <item>5</item>
+        <item>4</item>
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>English</item>
+        <item>Francès</item>
+        <item>Castellà</item>
+        <item>Japonès</item>
+        <item>Coreà</item>
+        <item>Xinès</item>
+        <item>Hebreu</item>
+    </string-array>
+    <string-array name="list_language_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>Només casa</item>
+        <item>Automàtica</item>
+    </string-array>
+    <string-array name="cdma_roaming_mode_choices">
+        <item>Només xarxa local</item>
+        <item>Xarxes afiliades</item>
+        <item>Qualsevol xarxa</item>
+    </string-array>
+    <string-array name="cdma_roaming_mode_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="cdma_network_preferences_choices">
+        <item>CDMA/EVDO</item>
+        <item>Només CDMA</item>
+        <item>Només EVDO</item>
+    </string-array>
+    <string-array name="cdma_network_preferences_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="cdma_subscription_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="tty_mode_entries">
+        <item>Mode TTY desactivat</item>
+        <item>TTY complet</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>Normal</item>
+        <item>Llarg</item>
+    </string-array>
+    <string-array name="dtmf_tone_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+</resources>

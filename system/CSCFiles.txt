@@ -1,0 +1,7 @@
+/system/SW_Configuration.xml
+/system/CSCFiles.txt
+/system/csc/others.xml
+/system/csc/sales_code.dat
+/system/csc/contents.db
+/system/csc/feature.xml
+/system/csc/customer.xml

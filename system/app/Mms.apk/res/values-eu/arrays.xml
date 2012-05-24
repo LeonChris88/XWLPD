@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_smiley_names">
+        <item>Pozik</item>
+        <item>Goibel</item>
+        <item>Keinada</item>
+        <item>Mihia aterata</item>
+        <item>Harrituta</item>
+        <item>Musukatzen</item>
+        <item>Garrasika</item>
+        <item>Epela</item>
+        <item>Dirua ahoan</item>
+        <item>Hanka sartze</item>
+        <item>Lotsatuta</item>
+        <item>Aingerua</item>
+        <item>Erabaki gabea</item>
+        <item>Negarrez</item>
+        <item>Ahoa itxita</item>
+        <item>Barrez</item>
+        <item>Nahasia</item>
+        <item>Bihotza</item>
+        <item>Zoro</item>
+        <item>Harro</item>
+        <item>Poker aurpegia</item>
+    </string-array>
+    <string-array name="pref_entries_font_size">
+        <item>Erabili gailu letra tam.</item>
+        <item>Erraldoia</item>
+        <item>Handia</item>
+        <item>Arrunta</item>
+        <item>Txikia</item>
+        <item>Ñimiñoa</item>
+    </string-array>
+    <string-array name="pref_entries_cb_selection">
+        <item>Kanal guztiak</item>
+        <item>Nire kanela</item>
+    </string-array>
+    <string-array name="pref_entries_sms_input_mode">
+        <item>GSM-alfabetoa</item>
+        <item>Unicode</item>
+        <item>Automatikoa</item>
+    </string-array>
+    <string-array name="pref_entries_mms_creation_mode">
+        <item>Mugatuta</item>
+        <item>Oharra</item>
+        <item>Libre</item>
+    </string-array>
+    <string-array name="pref_entries_service_loading_action">
+        <item>Beti</item>
+        <item>Abisua</item>
+        <item>Inoiz ez</item>
+    </string-array>
+    <string-array name="pref_entries_text_field_color">
+        <item>Beltza</item>
+        <item>Zuria</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Beti</item>
+        <item>Modu isilean soilik</item>
+        <item>Inoiz ez</item>
+    </string-array>
+</resources>

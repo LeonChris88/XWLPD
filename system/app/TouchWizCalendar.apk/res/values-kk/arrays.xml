@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_minutes_labels">
+        <item>Жоқ</item>
+        <item>Уақытында</item>
+        <item>5 мин бұрын</item>
+        <item>15 мин бұрын</item>
+        <item>1 сағат алдын</item>
+        <item>1 күн алдын</item>
+        <item>2 күн бурын</item>
+        <item>1 апта алдын</item>
+        <item>Теңшеу</item>
+    </string-array>
+    <string-array name="reminder_minutes_values">
+        <item>-1</item>
+        <item>0</item>
+        <item>5</item>
+        <item>15</item>
+        <item>60</item>
+        <item>1440</item>
+        <item>2880</item>
+        <item>10080</item>
+        <item>-2</item>
+    </string-array>
+    <array name="preferences_default_reminder_labels" />
+    <array name="preferences_default_reminder_values" />
+    <string-array name="preferences_alert_type_labels">
+        <item>Қоңырау</item>
+        <item>Күй жолағындағы мәлімдеме</item>
+        <item>Өшірілген</item>
+    </string-array>
+    <string-array name="preferences_alert_type_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="availability">
+        <item>Бос емес</item>
+        <item>Байланыс аясы</item>
+    </string-array>
+    <string-array name="visibility">
+        <item>Өздігінен</item>
+        <item>Жеке</item>
+        <item>Қоғамдық</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>Бір</item>
+        <item>Екінші</item>
+        <item>үшінші</item>
+        <item>төртінші</item>
+        <item>Соңғы</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>(Жауап жоқ)</item>
+        <item>Иә</item>
+        <item>Мүмкін</item>
+        <item>Жоқ</item>
+    </string-array>
+    <string-array name="response_labels2">
+        <item>Иә</item>
+        <item>Мүмкін</item>
+        <item>Жоқ</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Тек осы оқиға</item>
+        <item>Барлық оқиғалар</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>Барлық оқиғалар</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Тек осы мысал</item>
+        <item>Қатардағы барлық оқиғалар</item>
+    </string-array>
+    <array name="view_change_items" />
+    <array name="preferences_reminders_alert_type_labels" />
+    <array name="preferences_reminders_alert_type_values" />
+    <array name="preferences_reminders_default_reminder_labels" />
+    <array name="preferences_reminders_default_reminder_values" />
+    <string-array name="preferences_default_view_labels">
+        <item>Ай</item>
+        <item>Апта</item>
+        <item>Күн</item>
+        <item>Тізім</item>
+    </string-array>
+    <string-array name="preferences_default_view_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="preferences_day_view_labels">
+        <item>Уақыт кестесі</item>
+        <item>Оқиғалар тізімі</item>
+    </string-array>
+    <string-array name="preferences_day_view_values">
+        <item>2</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="preferences_first_day_of_week_labels">
+        <item>Дүйсенбі</item>
+        <item>Жексенбі</item>
+    </string-array>
+    <string-array name="preferences_first_day_of_week_values">
+        <item>2</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="preferences_font_size_labels">
+        <item>Тым кішкентай</item>
+        <item>Ұсақ</item>
+        <item>Орташа</item>
+        <item>Үлкен</item>
+        <item>Өте үлкен</item>
+    </string-array>
+    <string-array name="on_off">
+        <item>Өшірілген</item>
+        <item>Қосылған</item>
+    </string-array>
+    <string-array name="alarmtone">
+        <item>Дыбыстар</item>
+        <item>Менің файлдарыма бару</item>
+    </string-array>
+    <string-array name="repeat_labels">
+        <item>1 жыл үшін</item>
+        <item>5 жыл үшін</item>
+        <item>10 жыл үшін</item>
+        <item>50 жыл үшін</item>
+    </string-array>
+    <string-array name="ordinary_prev">
+        <item>1-апта</item>
+        <item>2-апта</item>
+        <item>3-апта</item>
+        <item>4-апта</item>
+        <item>5-апта</item>
+        <item>6-апта</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>Мидуэй аралы</item>
+        <item>Гавайи</item>
+        <item>Aляска</item>
+        <item>Тынық мұхиты уақыты</item>
+        <item>Тиуана</item>
+        <item>Аризона</item>
+        <item>Чиуауа</item>
+        <item>Қысқы уақыт аумағы</item>
+        <item>Орталық Америка</item>
+        <item>Орталық уақыт</item>
+        <item>Мехико</item>
+        <item>Саскачеван</item>
+        <item>Богота</item>
+        <item>Шығыс Еуропа уақыты</item>
+        <item>Венесуэла</item>
+        <item>Атлантика мұхитының уақыты</item>
+        <item>Манаус</item>
+        <item>Ньюфаундленд аралы</item>
+        <item>Сантьяго</item>
+        <item>Буэнос-Айрес</item>
+        <item>Гренландия</item>
+        <item>Бразилия</item>
+        <item>Монтевидео</item>
+        <item>Орта Атлантика</item>
+        <item>Азор аралдары</item>
+        <item>Жасыл Мүйіс аралдары</item>
+        <item>Касабланка</item>
+        <item>Лондон, Дублин</item>
+        <item>Амстердам, Берлин</item>
+        <item>Белград</item>
+        <item>Брюссель</item>
+        <item>Сараево</item>
+        <item>Батыс Африка уақыты</item>
+        <item>Виндхук</item>
+        <item>Амман, Иордания</item>
+        <item>Афины, Стамбул</item>
+        <item>Бейрут, Ливан</item>
+        <item>Каир</item>
+        <item>Хельсинки</item>
+        <item>Иерусалим</item>
+        <item>Mинск</item>
+        <item>Хараре</item>
+        <item>Бағдад</item>
+        <item>Mәскеу</item>
+        <item>Кувейт</item>
+        <item>Найроби</item>
+        <item>Тегеран</item>
+        <item>Баку</item>
+        <item>Тбилиси</item>
+        <item>Ереван</item>
+        <item>Дубай</item>
+        <item>Kaбул</item>
+        <item>Исламабад, Карачи</item>
+        <item>Орал</item>
+        <item>Екатеринбург</item>
+        <item>Калькутта</item>
+        <item>Шри-Ланка</item>
+        <item>Катманду</item>
+        <item>Aстана</item>
+        <item>Янгон</item>
+        <item>Красноярск</item>
+        <item>Бангкок</item>
+        <item>Пекин</item>
+        <item>Гонконг</item>
+        <item>Иркутск</item>
+        <item>Куала-Лумпур</item>
+        <item>Перт</item>
+        <item>Тайпей</item>
+        <item>Сеул</item>
+        <item>Токио, Осака</item>
+        <item>Якутск</item>
+        <item>Дарвин</item>
+        <item>Брисбен</item>
+        <item>Владивосток</item>
+        <item>Гуам, Хабаровск</item>
+        <item>Aделаида</item>
+        <item>Хобарт</item>
+        <item>Канберра, Сидней</item>
+        <item>Магадан</item>
+        <item>Маршалл аралдары</item>
+        <item>Фиджи</item>
+        <item>Окленд, Анадырь</item>
+        <item>Тонга</item>
+    </string-array>
+    <string-array name="my_status_labels">
+        <item>Бос</item>
+        <item>Сынақтық</item>
+        <item>Бос емес</item>
+        <item>Жұмыста емес</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>Әрқашан</item>
+        <item>Тек дыбыссыз режимде</item>
+        <item>Ешқашан</item>
+    </string-array>
+</resources>

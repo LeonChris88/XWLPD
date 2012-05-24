@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nminutes">
+        <item quantity="other">%d dakika</item>
+        <item quantity="one">1 dakika</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="other">%d dak.</item>
+        <item quantity="one">1 dk</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">%d saat</item>
+        <item quantity="one">1 saat</item>
+    </plurals>
+    <plurals name="Ndays">
+        <item quantity="other">%d gün</item>
+        <item quantity="one">1 gün</item>
+    </plurals>
+    <plurals name="Nweeks">
+        <item quantity="other">%d hafta</item>
+        <item quantity="one">1 hafta</item>
+    </plurals>
+</resources>

@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_minutes_labels">
+        <item>Geen</item>
+        <item>Op tijd</item>
+        <item>5 minuten van tevoren</item>
+        <item>15 minuten van tevoren</item>
+        <item>1 uur van tevoren</item>
+        <item>1 dag van tevoren</item>
+        <item>2 dagen van tevoren</item>
+        <item>1 week van tevoren</item>
+        <item>Handmatig</item>
+    </string-array>
+    <string-array name="reminder_minutes_values">
+        <item>-1</item>
+        <item>0</item>
+        <item>5</item>
+        <item>15</item>
+        <item>60</item>
+        <item>1440</item>
+        <item>2880</item>
+        <item>10080</item>
+        <item>-2</item>
+    </string-array>
+    <array name="preferences_default_reminder_labels" />
+    <array name="preferences_default_reminder_values" />
+    <string-array name="preferences_alert_type_labels">
+        <item>Signaal</item>
+        <item>Statusbalkmelding</item>
+        <item>Uit</item>
+    </string-array>
+    <string-array name="preferences_alert_type_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="availability">
+        <item>In gesprek</item>
+        <item>Beschikbaar</item>
+    </string-array>
+    <string-array name="visibility">
+        <item>Standaard</item>
+        <item>Privé</item>
+        <item>Openbaar</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>eerste</item>
+        <item>Seconde</item>
+        <item>derde</item>
+        <item>vierde</item>
+        <item>Laatste</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>(Geen reactie)</item>
+        <item>Ja</item>
+        <item>Misschien</item>
+        <item>Nee</item>
+    </string-array>
+    <string-array name="response_labels2">
+        <item>Ja</item>
+        <item>Misschien</item>
+        <item>Nee</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Alleen deze gebeurtenis</item>
+        <item>Alle gebeurtenissen</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>Alle gebeurtenissen</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Alleen dit exemplaar</item>
+        <item>Alle gebeurtenissen in de reeks</item>
+    </string-array>
+    <array name="view_change_items" />
+    <array name="preferences_reminders_alert_type_labels" />
+    <array name="preferences_reminders_alert_type_values" />
+    <array name="preferences_reminders_default_reminder_labels" />
+    <array name="preferences_reminders_default_reminder_values" />
+    <string-array name="preferences_default_view_labels">
+        <item>Maand</item>
+        <item>Week</item>
+        <item>Dag</item>
+        <item>Lijst</item>
+    </string-array>
+    <string-array name="preferences_default_view_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="preferences_day_view_labels">
+        <item>Tijdsindeling</item>
+        <item>Afsprakenlijst</item>
+    </string-array>
+    <string-array name="preferences_day_view_values">
+        <item>2</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="preferences_first_day_of_week_labels">
+        <item>Maandag</item>
+        <item>Zondag</item>
+    </string-array>
+    <string-array name="preferences_first_day_of_week_values">
+        <item>2</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="preferences_font_size_labels">
+        <item>Extra klein</item>
+        <item>Klein</item>
+        <item>Middel</item>
+        <item>Groot</item>
+        <item>Extra groot</item>
+    </string-array>
+    <string-array name="on_off">
+        <item>Uit</item>
+        <item>Aan</item>
+    </string-array>
+    <string-array name="alarmtone">
+        <item>Geluiden</item>
+        <item>Ga naar Mijn bestanden</item>
+    </string-array>
+    <string-array name="repeat_labels">
+        <item>Gedurende 1 jaar</item>
+        <item>Gedurende 5 jaar</item>
+        <item>Gedurende 10 jaar</item>
+        <item>Gedurende 50 jaar</item>
+    </string-array>
+    <string-array name="ordinary_prev">
+        <item>1e week</item>
+        <item>2e week</item>
+        <item>3e week</item>
+        <item>4e week</item>
+        <item>5e week</item>
+        <item>6e week</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>Midway-eiland</item>
+        <item>Hawaii</item>
+        <item>Alaska</item>
+        <item>Pacific/Guam</item>
+        <item>Tijuana</item>
+        <item>Arizona</item>
+        <item>Chihuahua</item>
+        <item>Mountain Time</item>
+        <item>Midden-Amerika</item>
+        <item>Central Time</item>
+        <item>Mexico-stad</item>
+        <item>Saskatchewan</item>
+        <item>Bogota</item>
+        <item>Eastern Time</item>
+        <item>Venezuela</item>
+        <item>Atlantic Time</item>
+        <item>Manaus</item>
+        <item>Newfoundland</item>
+        <item>Santiago</item>
+        <item>Buenos Aires</item>
+        <item>Groenland</item>
+        <item>Brazilië</item>
+        <item>Montevideo</item>
+        <item>Mid-Atlantic</item>
+        <item>Azoren</item>
+        <item>Kaapverdische Eilanden</item>
+        <item>Casablanca</item>
+        <item>Londen, Dublin</item>
+        <item>Amsterdam, Berlijn</item>
+        <item>Belgrado</item>
+        <item>Brussel</item>
+        <item>Sarajevo</item>
+        <item>W. Africa Time</item>
+        <item>Windhoek</item>
+        <item>Amman, Jordanië</item>
+        <item>Athene, Istanbul</item>
+        <item>Beiroet, Libanon</item>
+        <item>Caïro</item>
+        <item>Helsinki</item>
+        <item>Jeruzalem</item>
+        <item>Minsk</item>
+        <item>Harare</item>
+        <item>Bagdad</item>
+        <item>Moskou</item>
+        <item>Koeweit</item>
+        <item>Nairobi</item>
+        <item>Teheran</item>
+        <item>Baku</item>
+        <item>Tbilisi</item>
+        <item>Yerevan</item>
+        <item>Dubai</item>
+        <item>Kabul</item>
+        <item>Islamabad, Karachi</item>
+        <item>"Ural'sk"</item>
+        <item>Jekaterinenburg</item>
+        <item>Kolkata</item>
+        <item>Sri Lanka</item>
+        <item>Kathmandu</item>
+        <item>Astana</item>
+        <item>Yangon</item>
+        <item>Krasnojarsk</item>
+        <item>Bangkok</item>
+        <item>Peking</item>
+        <item>Hong Kong</item>
+        <item>Irkoetsk</item>
+        <item>Kuala Lumpur</item>
+        <item>Perth</item>
+        <item>Taipei</item>
+        <item>Seoel</item>
+        <item>Tokio, Osaka</item>
+        <item>Jakoetsk</item>
+        <item>Darwin</item>
+        <item>Brisbane</item>
+        <item>Vladivostok</item>
+        <item>Guam</item>
+        <item>Adelaide</item>
+        <item>Hobart</item>
+        <item>Canberra, Sydney</item>
+        <item>Magadan</item>
+        <item>Marshall-eilanden</item>
+        <item>Fiji</item>
+        <item>Auckland</item>
+        <item>Tonga</item>
+    </string-array>
+    <string-array name="my_status_labels">
+        <item>Vrij</item>
+        <item>Poging</item>
+        <item>In gesprek</item>
+        <item>Niet op kantoor</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>Altijd</item>
+        <item>Alleen in stille stand</item>
+        <item>Nooit</item>
+    </string-array>
+</resources>

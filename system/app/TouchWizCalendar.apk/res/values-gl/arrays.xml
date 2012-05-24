@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_minutes_labels">
+        <item>Ningún</item>
+        <item>En hora</item>
+        <item>5 min. antes</item>
+        <item>15 minutos antes</item>
+        <item>1 hora antes</item>
+        <item>1 día antes</item>
+        <item>2 días antes</item>
+        <item>1 semana antes</item>
+        <item>Personalizar</item>
+    </string-array>
+    <string-array name="preferences_alert_type_labels">
+        <item>Alerta</item>
+        <item>Notificación de barra de estado</item>
+        <item>Desactivada</item>
+    </string-array>
+    <string-array name="availability">
+        <item>Ocupado</item>
+        <item>Dispoñible</item>
+    </string-array>
+    <string-array name="visibility">
+        <item>Predeterminado</item>
+        <item>Privado</item>
+        <item>Público</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>Primeiro</item>
+        <item>Segundo</item>
+        <item>Terceiro</item>
+        <item>Cuarto</item>
+        <item>Último</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>(sen resposta)</item>
+        <item>Si</item>
+        <item>Quizais</item>
+        <item>Non</item>
+    </string-array>
+    <string-array name="response_labels2">
+        <item>Si</item>
+        <item>Quizais</item>
+        <item>Non</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Só este evento</item>
+        <item>Todos os eventos</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>Todos os eventos</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Só esta ocorrencia</item>
+        <item>Todos os eventos da serie</item>
+    </string-array>
+    <string-array name="preferences_default_view_labels">
+        <item>Mes</item>
+        <item>Semana</item>
+        <item>Día</item>
+        <item>Lista</item>
+    </string-array>
+    <string-array name="preferences_day_view_labels">
+        <item>Por horas</item>
+        <item>Lista de eventos</item>
+    </string-array>
+    <string-array name="preferences_first_day_of_week_labels">
+        <item>Luns</item>
+        <item>Domingo</item>
+    </string-array>
+    <string-array name="preferences_font_size_labels">
+        <item>Moi pequena</item>
+        <item>Pequena</item>
+        <item>Media</item>
+        <item>Grande</item>
+        <item>Extra grande</item>
+    </string-array>
+    <string-array name="on_off">
+        <item>Desactivada</item>
+        <item>Activada</item>
+    </string-array>
+    <string-array name="alarmtone">
+        <item>Sons</item>
+        <item>Ir a Os meus arquivos</item>
+    </string-array>
+    <string-array name="repeat_labels">
+        <item>Durante 1 ano</item>
+        <item>Durante 5 anos</item>
+        <item>Durante 10 anos</item>
+        <item>Durante 50 anos</item>
+    </string-array>
+    <string-array name="ordinary_prev">
+        <item>1ª semana</item>
+        <item>2ª semana</item>
+        <item>3ª semana</item>
+        <item>4ª semana</item>
+        <item>5ª semana</item>
+        <item>6ª semana</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>Illa de Midway</item>
+        <item>Hawai</item>
+        <item>Alaska</item>
+        <item>Hora do Pacífico</item>
+        <item>Tijuana</item>
+        <item>Arizona</item>
+        <item>Chihuahua</item>
+        <item>Hora das Montañas</item>
+        <item>Centroamérica</item>
+        <item>Hora Central</item>
+        <item>Cidade de México</item>
+        <item>Saskatchewan</item>
+        <item>Bogotá</item>
+        <item>Hora Oriental</item>
+        <item>Venezuela</item>
+        <item>Hora Atlántica</item>
+        <item>Manaus</item>
+        <item>Terranova</item>
+        <item>Santiago</item>
+        <item>Bos Aires</item>
+        <item>Groenlandia</item>
+        <item>Brasilia</item>
+        <item>Montevideo</item>
+        <item>Atlántico-Medio</item>
+        <item>Azores</item>
+        <item>Illas de Cabo Verde</item>
+        <item>Casablanca</item>
+        <item>Londres, Dublín</item>
+        <item>Ámsterdam, Berlín</item>
+        <item>Belgrado</item>
+        <item>Bruxelas</item>
+        <item>Saraxevo</item>
+        <item>Hora de África Occidental</item>
+        <item>Windhoek</item>
+        <item>Aman, Xordania</item>
+        <item>Atenas, Istambul</item>
+        <item>Beirut, Líbano</item>
+        <item>O Cairo</item>
+        <item>Helsinki</item>
+        <item>Xerusalén</item>
+        <item>Minsk</item>
+        <item>Harare</item>
+        <item>Baghdad</item>
+        <item>Moscova</item>
+        <item>Kuwait</item>
+        <item>Nairobi</item>
+        <item>Teherán</item>
+        <item>Bacú</item>
+        <item>Tiflis</item>
+        <item>Iereván</item>
+        <item>Dubai</item>
+        <item>Kabul</item>
+        <item>Islamabad, Karachi</item>
+        <item>Uralsk</item>
+        <item>Yekaterimburgo</item>
+        <item>Kolkata</item>
+        <item>Sri Lanka</item>
+        <item>Katmandú</item>
+        <item>Astana</item>
+        <item>Yangon</item>
+        <item>Krasnoyarsk</item>
+        <item>Bangkok</item>
+        <item>Pequín</item>
+        <item>Hongkong</item>
+        <item>Irkutsk</item>
+        <item>Kuala Lumpur</item>
+        <item>Perth</item>
+        <item>Taipei</item>
+        <item>Seúl</item>
+        <item>Toquio, Osaka</item>
+        <item>Yakutsk</item>
+        <item>Darwin</item>
+        <item>Brisbana</item>
+        <item>Vladivostok</item>
+        <item>Guam</item>
+        <item>Adelaida</item>
+        <item>Hobart</item>
+        <item>Camberra, Sídney</item>
+        <item>Magadan</item>
+        <item>Illas Marshall</item>
+        <item>Fidxi</item>
+        <item>Auckland</item>
+        <item>Tonga</item>
+    </string-array>
+    <string-array name="my_status_labels">
+        <item>De balde</item>
+        <item>Provisio.</item>
+        <item>Ocupado</item>
+        <item>Fóra da oficina</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>Sempre</item>
+        <item>Só en modo Silencioso</item>
+        <item>Nunca</item>
+    </string-array>
+</resources>

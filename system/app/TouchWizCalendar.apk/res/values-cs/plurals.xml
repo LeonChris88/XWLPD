@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nminutes">
+        <item quantity="other">Počet minut: %d</item>
+        <item quantity="one">1 minuta</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="other">%d min.</item>
+        <item quantity="one">1 min.</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">%d hodin</item>
+        <item quantity="one">1 hodina</item>
+    </plurals>
+    <plurals name="Ndays">
+        <item quantity="other">Počet dnů: %d</item>
+        <item quantity="one">1 den</item>
+    </plurals>
+    <plurals name="Nweeks">
+        <item quantity="other">Počet týdnů: %d</item>
+        <item quantity="one">1 týden</item>
+    </plurals>
+</resources>

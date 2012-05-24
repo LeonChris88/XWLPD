@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_minutes_labels">
+        <item>Ohne</item>
+        <item>Pünktlich</item>
+        <item>5 Min. vorher</item>
+        <item>15 Min. vorher</item>
+        <item>1 Stunde vorher</item>
+        <item>1 Tag vorher</item>
+        <item>2 Tage vorher</item>
+        <item>1 Woche vorher</item>
+        <item>Benutzerdefiniert anpassen</item>
+    </string-array>
+    <string-array name="reminder_minutes_values">
+        <item>-1</item>
+        <item>0</item>
+        <item>5</item>
+        <item>15</item>
+        <item>60</item>
+        <item>1440</item>
+        <item>2880</item>
+        <item>10080</item>
+        <item>-2</item>
+    </string-array>
+    <array name="preferences_default_reminder_labels" />
+    <array name="preferences_default_reminder_values" />
+    <string-array name="preferences_alert_type_labels">
+        <item>Signal</item>
+        <item>Statusleisten-Benachrichtigung</item>
+        <item>Aus</item>
+    </string-array>
+    <string-array name="preferences_alert_type_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="availability">
+        <item>Besetzt</item>
+        <item>Verfügbar</item>
+    </string-array>
+    <string-array name="visibility">
+        <item>Standard</item>
+        <item>Privat</item>
+        <item>Öffentl.</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>Erste</item>
+        <item>Sekunde</item>
+        <item>dritter</item>
+        <item>vierten</item>
+        <item>Letzte</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>(keine Antwort)</item>
+        <item>Ja</item>
+        <item>Vielleicht</item>
+        <item>Nein</item>
+    </string-array>
+    <string-array name="response_labels2">
+        <item>Ja</item>
+        <item>Vielleicht</item>
+        <item>Nein</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Nur dieses Ereignis</item>
+        <item>Alle Ereignisse</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>Alle Ereignisse</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Nur diese Instanz</item>
+        <item>Alle Ereignisse in der Serie</item>
+    </string-array>
+    <array name="view_change_items" />
+    <array name="preferences_reminders_alert_type_labels" />
+    <array name="preferences_reminders_alert_type_values" />
+    <array name="preferences_reminders_default_reminder_labels" />
+    <array name="preferences_reminders_default_reminder_values" />
+    <string-array name="preferences_default_view_labels">
+        <item>Monat</item>
+        <item>Woche</item>
+        <item>Tag</item>
+        <item>Liste</item>
+    </string-array>
+    <string-array name="preferences_default_view_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="preferences_day_view_labels">
+        <item>Zeitraster</item>
+        <item>Ereignisse</item>
+    </string-array>
+    <string-array name="preferences_day_view_values">
+        <item>2</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="preferences_first_day_of_week_labels">
+        <item>Montag</item>
+        <item>Sonntag</item>
+    </string-array>
+    <string-array name="preferences_first_day_of_week_values">
+        <item>2</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="preferences_font_size_labels">
+        <item>Extra klein</item>
+        <item>Klein</item>
+        <item>Mittel</item>
+        <item>Groß</item>
+        <item>Extragroß</item>
+    </string-array>
+    <string-array name="on_off">
+        <item>Aus</item>
+        <item>Ein</item>
+    </string-array>
+    <string-array name="alarmtone">
+        <item>Töne</item>
+        <item>Zu Eigene Dateien wechseln</item>
+    </string-array>
+    <string-array name="repeat_labels">
+        <item>1 Jahr lang</item>
+        <item>5 Jahre lang</item>
+        <item>10 Jahre lang</item>
+        <item>50 Jahre lang</item>
+    </string-array>
+    <string-array name="ordinary_prev">
+        <item>Erste Woche</item>
+        <item>2. Woche</item>
+        <item>3. Woche</item>
+        <item>4. Woche</item>
+        <item>5. Woche</item>
+        <item>6. Woche</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>Midway-Inseln</item>
+        <item>Hawaii</item>
+        <item>Alaska</item>
+        <item>Pazifik</item>
+        <item>Tijuana</item>
+        <item>Arizona</item>
+        <item>Chihuahua</item>
+        <item>Mountain</item>
+        <item>Mittelamerika</item>
+        <item>Central</item>
+        <item>Mexiko-Stadt</item>
+        <item>Saskatchewan</item>
+        <item>Bogota</item>
+        <item>Eastern</item>
+        <item>Venezuela</item>
+        <item>Atlantik</item>
+        <item>Manaus</item>
+        <item>Neufundland</item>
+        <item>Santiago</item>
+        <item>Buenos Aires</item>
+        <item>Grönland</item>
+        <item>Brasilien</item>
+        <item>Montevideo</item>
+        <item>Mittelatlantik</item>
+        <item>Azoren</item>
+        <item>Kapverdische Inseln</item>
+        <item>Casablanca</item>
+        <item>London, Dublin</item>
+        <item>Amsterdam, Berlin</item>
+        <item>Belgrad</item>
+        <item>Brüssel</item>
+        <item>Sarajevo</item>
+        <item>W.-Afrika</item>
+        <item>Windhoek</item>
+        <item>Amman, Jordan</item>
+        <item>Athen, Istanbul</item>
+        <item>Beirut, Libanon</item>
+        <item>Kairo</item>
+        <item>Helsinki</item>
+        <item>Jerusalem</item>
+        <item>Minsk</item>
+        <item>Harare</item>
+        <item>Baghdad</item>
+        <item>Moskau</item>
+        <item>Kuwait</item>
+        <item>Nairobi</item>
+        <item>Teheran</item>
+        <item>Baku</item>
+        <item>Tbilisi</item>
+        <item>Yerevan</item>
+        <item>Dubai</item>
+        <item>Kabul</item>
+        <item>Islamabad, Karatschi</item>
+        <item>Uralsk</item>
+        <item>Jekaterinburg</item>
+        <item>Kolkata</item>
+        <item>Sri Lanka</item>
+        <item>Kathmandu</item>
+        <item>Astana</item>
+        <item>Rangun</item>
+        <item>Krasnojarsk</item>
+        <item>Bangkok</item>
+        <item>Peking</item>
+        <item>Hongkong</item>
+        <item>Irkutsk</item>
+        <item>Kuala Lumpur</item>
+        <item>Perth</item>
+        <item>Taipeh</item>
+        <item>Seoul</item>
+        <item>Tokio, Osaka</item>
+        <item>Jakutsk</item>
+        <item>Darwin</item>
+        <item>Brisbane</item>
+        <item>Wladiwostok</item>
+        <item>Guam</item>
+        <item>Adelaide</item>
+        <item>Hobart</item>
+        <item>Canberra, Sydney</item>
+        <item>Magadan</item>
+        <item>Marshall-Inseln</item>
+        <item>Fidschi</item>
+        <item>Auckland</item>
+        <item>Tonga</item>
+    </string-array>
+    <string-array name="my_status_labels">
+        <item>Frei</item>
+        <item>Vorläufig</item>
+        <item>Besetzt</item>
+        <item>Nicht im Büro</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>Immer</item>
+        <item>Nur im Stumm-Modus</item>
+        <item>Nie</item>
+    </string-array>
+</resources>

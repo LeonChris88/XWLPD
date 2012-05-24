@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_smiley_names">
+        <item>Feliz</item>
+        <item>Triste</item>
+        <item>Chiscando un ollo</item>
+        <item>Lingua fóra</item>
+        <item>Sorprendido</item>
+        <item>Bicar</item>
+        <item>Gritando</item>
+        <item>Molón</item>
+        <item>Boca con diñeiro</item>
+        <item>Pé en boca</item>
+        <item>Avergoñado</item>
+        <item>Anxo</item>
+        <item>Indeciso</item>
+        <item>Chorando</item>
+        <item>Boca pechada</item>
+        <item>Rindo</item>
+        <item>Confundido</item>
+        <item>Corazón</item>
+        <item>Tolo</item>
+        <item>Sorriso malicioso</item>
+        <item>Cara de poker</item>
+    </string-array>
+    <string-array name="pref_entries_font_size">
+        <item>Usar tamaño fonte dispos.</item>
+        <item>Enorme</item>
+        <item>Grande</item>
+        <item>Normal</item>
+        <item>Pequeno</item>
+        <item>Diminuto</item>
+    </string-array>
+    <string-array name="pref_entries_cb_selection">
+        <item>Todas as canles</item>
+        <item>A miña canle</item>
+    </string-array>
+    <string-array name="pref_entries_sms_input_mode">
+        <item>Alfabeto GSM</item>
+        <item>Unicode</item>
+        <item>Automática</item>
+    </string-array>
+    <string-array name="pref_entries_mms_creation_mode">
+        <item>Restrinxida</item>
+        <item>Aviso</item>
+        <item>Libre</item>
+    </string-array>
+    <string-array name="pref_entries_service_loading_action">
+        <item>Sempre</item>
+        <item>Solicitude</item>
+        <item>Nunca</item>
+    </string-array>
+    <string-array name="pref_entries_text_field_color">
+        <item>Negro</item>
+        <item>Branco</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Sempre</item>
+        <item>Só en modo Silenc.</item>
+        <item>Nunca</item>
+    </string-array>
+</resources>

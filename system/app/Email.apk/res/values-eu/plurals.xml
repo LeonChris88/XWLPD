@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="gal_completed_fmt">
+        <item quantity="other">%1$d emaitza %2$s web orrian</item>
+        <item quantity="one">%1$d result from %2$s</item>
+    </plurals>
+    <plurals name="message_deleted_toast">
+        <item quantity="other">Mezuak ezabatu dira</item>
+        <item quantity="one">Mezua ezabatu da</item>
+    </plurals>
+    <plurals name="move_messages">
+        <item quantity="other">Mugitu mezuak</item>
+        <item quantity="one">Mugitu mezua</item>
+    </plurals>
+    <plurals name="notification_new_one_account_fmt">
+        <item quantity="other">%d mezu elektroniko berriak ( %s )</item>
+        <item quantity="one">Mezu elektroniko berri %1$d ( %s )</item>
+        <item quantity="few">%d mezu elektroniko berriak ( %s )</item>
+    </plurals>
+    <plurals name="notification_new_multi_account_fmt">
+        <item quantity="other">%d kontutan</item>
+        <item quantity="few">%d kontutan</item>
+    </plurals>
+    <plurals name="number_of_accounts">
+        <item quantity="other">%d kontu</item>
+        <item quantity="one">Kontu %d</item>
+    </plurals>
+    <plurals name="message_view_selected_message_count">
+        <item quantity="other">%d aukeratuta</item>
+        <item quantity="one">%d aukeratuta</item>
+    </plurals>
+    <plurals name="message_view_show_attachments_action">
+        <item quantity="other">Eranskinak %1$d</item>
+        <item quantity="one">Eranskin %1$d</item>
+    </plurals>
+    <plurals name="message_delete_confirm">
+        <item quantity="other">Discard these messages?</item>
+        <item quantity="one">Discard this message?</item>
+    </plurals>
+    <plurals name="message_moved_toast">
+        <item quantity="other">%1$d mezu mugitu dira %2$s-(e)ra</item>
+        <item quantity="one">Mezu %1$d mugitu da %2$s-(e)ra</item>
+    </plurals>
+    <plurals name="message_view_attachment_bytes">
+        <item quantity="other">%dB</item>
+        <item quantity="one">%dB</item>
+    </plurals>
+    <plurals name="message_view_attachment_kilobytes">
+        <item quantity="other">%d KB</item>
+        <item quantity="one">%d KB</item>
+    </plurals>
+    <plurals name="message_view_attachment_megabytes">
+        <item quantity="other">%d MB</item>
+        <item quantity="one">%d MB</item>
+    </plurals>
+    <plurals name="message_view_attachment_gigabytes">
+        <item quantity="other">%dGB</item>
+        <item quantity="one">%dGB</item>
+    </plurals>
+    <plurals name="message_view_attachment_bytes_float">
+        <item quantity="other">%.1fB</item>
+        <item quantity="one">%.1fB</item>
+    </plurals>
+    <plurals name="message_view_attachment_kilobytes_float">
+        <item quantity="other">%.1fKB</item>
+        <item quantity="one">%.1fKB</item>
+    </plurals>
+    <plurals name="message_view_attachment_megabytes_float">
+        <item quantity="other">%.1fMB</item>
+        <item quantity="one">%.1fMB</item>
+    </plurals>
+    <plurals name="message_view_attachment_gigabytes_float">
+        <item quantity="other">%.1fGB</item>
+        <item quantity="one">%.1fGB</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s emaitza %2$s-rako</item>
+        <item quantity="one">%s result for \"%s\"</item>
+    </plurals>
+</resources>

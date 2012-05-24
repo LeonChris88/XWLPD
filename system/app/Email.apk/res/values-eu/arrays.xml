@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Display content of messages in tiny sized text</item>
+        <item>Display content of messages in small sized text</item>
+        <item>Display content of messages in normal sized text</item>
+        <item>Display content of messages in large sized text</item>
+        <item>Display content of messages in huge sized text</item>
+    </string-array>
+    <string-array name="general_preference_preview_line_summary_array">
+        <item>Display 0 line in message preview</item>
+        <item>Erakutsi lerro 1 mezuaren aurrebistan</item>
+        <item>Display 2 line in message preview</item>
+        <item>Display 3 line in message preview</item>
+    </string-array>
+    <string-array name="search_list">
+        <item>Google</item>
+        <item>Google itzultzialea</item>
+        <item>Wikipedia</item>
+        <item>Hiztegia</item>
+    </string-array>
+    <string-array name="share_list">
+        <item>Partekatu testu gisa</item>
+        <item>Partekatu irudi gisa</item>
+    </string-array>
+</resources>

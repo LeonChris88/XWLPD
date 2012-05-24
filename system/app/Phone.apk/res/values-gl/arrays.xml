@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="clir_display_values">
+        <item>Valor predeterminado de rede</item>
+        <item>Ocultar número</item>
+        <item>Mostrar número</item>
+    </string-array>
+    <string-array name="clir_values">
+        <item>Predeterminado</item>
+        <item>Ocultar</item>
+        <item>Mostrar</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>Global</item>
+        <item>Só EVDO</item>
+        <item>CDMA w/o EVDO</item>
+        <item>CDMA/EVDO automático</item>
+        <item>GSM/WCDMA automático</item>
+        <item>Só WCDMA</item>
+        <item>Só GSM</item>
+        <item>GSM/WCDMA preferido</item>
+    </string-array>
+    <string-array name="preferred_network_mode_values">
+        <item>7</item>
+        <item>6</item>
+        <item>5</item>
+        <item>4</item>
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>English</item>
+        <item>Francés</item>
+        <item>Español</item>
+        <item>Xaponés</item>
+        <item>Coreano</item>
+        <item>Chinés</item>
+        <item>Hebreo</item>
+    </string-array>
+    <string-array name="list_language_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>Só local</item>
+        <item>Automático</item>
+    </string-array>
+    <string-array name="cdma_roaming_mode_choices">
+        <item>Só rede local</item>
+        <item>Redes afiliadas</item>
+        <item>Calquera rede</item>
+    </string-array>
+    <string-array name="cdma_roaming_mode_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="cdma_network_preferences_choices">
+        <item>CDMA/EVDO</item>
+        <item>Só CDMA</item>
+        <item>Só EVDO</item>
+    </string-array>
+    <string-array name="cdma_network_preferences_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="cdma_subscription_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="tty_mode_entries">
+        <item>Modo TTY desactivado</item>
+        <item>TTY cheo</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>Norm.</item>
+        <item>Longo</item>
+    </string-array>
+    <string-array name="dtmf_tone_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+</resources>
