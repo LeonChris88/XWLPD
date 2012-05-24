@@ -133,7 +133,7 @@
 
     const/4 v0, 0x0
 
-    iput v0, p0, Lcom/sec/android/app/dialertab/calllog/CallLogFragment;->mWhichButton:I
+    iput v1, p0, Lcom/sec/android/app/dialertab/calllog/CallLogFragment;->mWhichButton:I
 
     iput v1, p0, Lcom/sec/android/app/dialertab/calllog/CallLogFragment;->CONTEXTMENU_CALL:I
 

@@ -1346,7 +1346,7 @@
 .method public onBackPressed()V
     .locals 3
 
-    const/4 v2, 0x0
+    const/4 v2, 0x1
 
     iget-object v0, p0, Lcom/android/contacts/activities/DialtactsActivity;->mDialpadFragment:Lcom/sec/android/app/dialertab/dialpad/DialpadFragment;
 
