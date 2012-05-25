@@ -1915,7 +1915,7 @@
 
     move-result-object v3
 
-    invoke-direct {p0, v0, v3}, Lcom/android/mms/ui/MessagingPreferenceActivity;->removePreference(Landroid/preference/PreferenceGroup;Landroid/preference/Preference;)V
+    
 
     const-string v3, "ATL"
 
