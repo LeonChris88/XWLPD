@@ -62,7 +62,7 @@
     <bool name="skip_radio_power_off_on_sim_refresh_reset">true</bool>
     <bool name="config_motion_tilt">true</bool>
     <bool name="config_motion_pan">true</bool>
-    <bool name="config_motion_shake">false</bool>
+    <bool name="config_motion_shake">true</bool>
     <bool name="config_motion_double_tap">true</bool>
     <bool name="config_motion_pick_up">false</bool>
     <bool name="config_motion_turn_over">true</bool>
